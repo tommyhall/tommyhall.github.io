@@ -23,6 +23,6 @@ Hello. Contact me.
     <textarea name="_message" class="form-control"></textarea>
   </div>
   <div class="form-group">
-    <input type="submit" class="btn-submit" value="Send">
+    <input type="submit" value="Send">
   </div>
 </form>
