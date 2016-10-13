@@ -15,19 +15,18 @@ I am a developer and UX guy in The Annex, Toronto. My focus is on developing qua
 
 ## Experience
 <div class="resume-content">
-<h4 class="resume-title">University of Guelph - Child Development Research Unit | Jan 2012 to present</h4>
+<h4 class="resume-title"><strong>University of Guelph - Child Development Research Unit</strong> | Jan 2012 to present</h4>
 <strong>Software Developer</strong>
 <p>Developed Python-based virtual reality applications to collect real-time data on children's street crossing behaviours.</p>
 <p>Worked with researchers to create analytics from raw positional and orientation data, leading to meaningful performance 
 measures and multiple academic publications.</p>
 <h4 class="resume-title">Freelance | Jul 2013 to present</h4>
-<em>Jul 2013 to present</em>
 <strong>Web Developer</strong>
 <p>Designed and developed responsive visual updates to <em>Kathryn Simpson Consulting</em> and <em>Now What Life</em> websites.</p>
 <p>Developed a responsive Django-based web application prototype for a SaaS startup.</p>
 <h4 class="resume-title">Research in Motion (now BlackBerry) | Jan 2010 to Dec 2010</h4>
 <strong>UX Researcher</strong>
-<p>Usability research on handheld media applications.</p>
+<p>Performed usability research on handheld media applications.</p>
 </div>
 
 ## Education
