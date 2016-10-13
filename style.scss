@@ -282,9 +282,9 @@ nav {
   display: block;
   width: 100%;
   padding: .5rem .75rem;
-  font-size: 1rem;
+  font-size: 16px;
   line-height: 1.25;
-  color: $darkGray;
+  color: $gray;
   background-color: $white;
   background-image: none;
   -webkit-background-clip: padding-box;
@@ -300,12 +300,16 @@ input[type="submit"] {
   cursor: pointer;
   text-align: center;
   padding: 10px 10px 8px;
-  font-size: 18px;
+  font-size: 16px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   -o-border-radius: 4px;
   border-radius: 4px;
+}
+
+input[type="submit"]:hover {
+  color: $atlanticBlueDarker;
 }
 
 .wrapper-footer {
