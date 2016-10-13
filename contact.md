@@ -22,5 +22,7 @@ Hello. Contact me.
     <label for="_message">Message:</label>
     <textarea name="_message" class="form-control"></textarea>
   </div>
-  <input type="submit" value="Send">
+  <div class="form-group">
+    <input type="submit" class="btn-submit" value="Send">
+  </div>
 </form>
