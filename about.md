@@ -4,12 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Here is a brief description of me!
 
-### More Information
+### Skills
+Coding:
+- HTML5, CSS5, JavaScript
+- Python, Django
+- Pandas, Octave
+- Microsoft Office Suite
+Tools:
+- Vizard
+- Microsoft Office Suite
 
+### Work
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Education
+I went to some schools!
 
-[email@domain.com](mailto:email@domain.com)
+### Publications
+I got some stuff published!
