@@ -10,7 +10,7 @@ I am a developer and UX guy in The Annex, Toronto. My focus is on developing qua
 <div class="resume-content">
 <p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, Javascript</p>
 <p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
-<p><strong>Design & Tools:</strong> Vizard, atomic.io, MS Office Suite</p>
+<p><strong>Design & Tools:</strong> Usability testing, Usability research, Heuristic evaluation, Vizard, atomic.io, MS Office Suite</p>
 </div>
 
 ## Experience
