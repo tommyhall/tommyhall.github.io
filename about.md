@@ -11,7 +11,7 @@ I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My
 <p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, Javascript</p>
 <p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
 <p><strong>Design & Tools:</strong> Usability testing, Usability research, Heuristic evaluation, atomic.io, MS Office Suite</p>
-<p><strong>VR:</strong></p> Oculus Rift, Vizard
+<p><strong>VR:</strong> Oculus Rift, Vizard</p>
 </div>
 
 ## Experience
