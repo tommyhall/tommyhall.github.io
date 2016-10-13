@@ -17,10 +17,9 @@ I am a developer and UX guy in The Annex, Toronto. My focus is on developing qua
 *  JavaScript
 *  HCI
 
-
 ## Experience
 
-### University of Guelph - Child Development Research Unit
+<h4 class="resume-title">University of Guelph - Child Development Research Unit</h4>
 
 **Software Developer**
 
@@ -29,7 +28,7 @@ Developed Python-based virtual reality applications to collect real-time data on
 Worked with researchers to create analytics from raw positional and orientation data, leading to meaningful performance 
 measures and multiple academic publications.
 
-### Freelance
+<h4 class="resume-title">Freelance</h4>
 
 **Web Developer**
 
@@ -37,7 +36,7 @@ Design and development of responsive visual updates to *Kathryn Simpson Consulti
 
 Working with SaaS startup to build Django-based web application.
 
-### Research in Motion (now BlackBerry)
+<h4 class="resume-title">Research in Motion (now BlackBerry)</h4>
 
 **UX Researcher**
 
@@ -46,10 +45,10 @@ Usability research on handheld media applications.
 
 ## Education
 
-### University of Guelph | 2014
+<h4 class="resume-title">University of Guelph | 2014</h4>
 **MSc. Computer Science - Human Computer Interaction**
   
-### University of Guelph | 2009
+<h4 class="resume-title">University of Guelph | 2009</h4>
 **Bachelor of Computing**
 
 Minor in Business Administration
