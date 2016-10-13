@@ -19,7 +19,7 @@ html {
 
 body {
   background: $white;
-  font: 19px/1.4 $humanist;
+  font: 18px/1.4 $helveticaNeue;
   color: $darkGray;
 }
 
@@ -204,6 +204,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 19px;
+  font-family: $humanist;
 
   @include mobile {
     margin: 3px 0;
