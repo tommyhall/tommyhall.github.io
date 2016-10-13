@@ -21,7 +21,7 @@ I am a developer and UX guy in The Annex, Toronto. My focus is on developing qua
 ## Experience
 
 <h4 class="resume-title">University of Guelph - Child Development Research Unit</h4>
-
+<div class="resume-content">
 **Software Developer**
 
 Developed Python-based virtual reality applications to collect real-time data on children's street crossing behaviours.
@@ -42,7 +42,7 @@ Working with SaaS startup to build Django-based web application.
 **UX Researcher**
 
 Usability research on handheld media applications.
- 
+</div>
 
 ## Education
 
