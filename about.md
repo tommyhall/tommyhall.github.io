@@ -40,7 +40,7 @@ measures and multiple academic publications.</p>
 ## Education
 <div class="resume-content">
 <h4 class="resume-title">University of Guelph | 2014</h4>
-<strong>MSc. Computer Science - Human Computer Interaction</strong>
+MSc. Computer Science - Human Computer Interaction
   
 <h4 class="resume-title">University of Guelph | 2009</h4>
 <strong>Bachelor of Computing, Minor in Business Administration</strong>
