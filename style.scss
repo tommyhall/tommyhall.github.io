@@ -278,6 +278,11 @@ nav {
   margin-bottom: 1em;
 }
 
+.form-group label {
+  color: $gray;
+  font-size: 16px;
+}
+
 .form-control { // based on Bootstrap
   display: block;
   width: 100%;
@@ -291,11 +296,6 @@ nav {
   background-clip: padding-box;
   border: 1px solid rgba(0,0,0,.15);
   border-radius: .25rem;
-}
-
-.form-control label {
-  color: $gray;
-  font-size: 16px;
 }
 
 input[type="submit"] {
