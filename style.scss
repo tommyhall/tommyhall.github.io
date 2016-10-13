@@ -282,15 +282,20 @@ nav {
   display: block;
   width: 100%;
   padding: .5rem .75rem;
-  font-size: 16px;
+  font-size: 1rem;
   line-height: 1.25;
-  color: $gray;
+  color: $darkGray;
   background-color: $white;
   background-image: none;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   border: 1px solid rgba(0,0,0,.15);
   border-radius: .25rem;
+}
+
+.form-control label {
+  color: $gray;
+  font-size: 16px;
 }
 
 input[type="submit"] {
@@ -309,7 +314,7 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-  color: $atlanticBlueDarker;
+  background: $atlanticBlueDarker;
 }
 
 .wrapper-footer {
