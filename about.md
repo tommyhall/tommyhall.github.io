@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 I'm Tom Hall.
-I am a developer and UX guy in The Annex, Toronto. My focus is on developing quality user experiences. I love films, music, cats, and getting into Heroes of the Storm deep cuts.
+I am a developer and UX guy in The Annex, Toronto. My focus is on research, and developing quality user experiences. I love films, music, cats, and *Heroes of the Storm* deep cuts.
 
 ## Proficiencies
 <div class="resume-content">
