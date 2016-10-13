@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-Hello. Do you have an enquiry, a project you'd like me to work on, or just feel like a chat? Give me an email using the form below, and I'll get back to you as soon as possible!
+Hello. Do you have an enquiry, a project you'd like me to work on, or just want to say hi? Give me an email using the form below, and I'll get back to you as soon as possible!
 
 <form action="https://formspree.io/thomas.peter.hall@gmail.com" method="POST">
   <div class="form-group">
