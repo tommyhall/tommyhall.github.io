@@ -26,7 +26,7 @@ measures and multiple academic publications.</p>
 <p>Developed a responsive Django-based web application prototype for a SaaS startup.</p>
 <h4 class="resume-title">Research in Motion (now BlackBerry) | Jan 2010 to Dec 2010</h4>
 <strong>UX Researcher</strong>
-<p>Performed usability research on handheld media applications.</p>
+<p>Performed usability research for handheld media applications.</p>
 </div>
 
 ## Education
