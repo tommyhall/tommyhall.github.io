@@ -17,6 +17,7 @@ I am a developer and UX guy in The Annex, Toronto. My focus is on developing qua
 *  JavaScript
 *  HCI
 
+
 ## Experience
 
 <h4 class="resume-title">University of Guelph - Child Development Research Unit</h4>
@@ -49,9 +50,8 @@ Usability research on handheld media applications.
 **MSc. Computer Science - Human Computer Interaction**
   
 <h4 class="resume-title">University of Guelph | 2009</h4>
-**Bachelor of Computing**
+**Bachelor of Computing, Minor in Business Administration**
 
-Minor in Business Administration
 
 ## Publications
 I got some stuff published!
