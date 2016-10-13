@@ -21,9 +21,10 @@ I am a developer and UX guy in The Annex, Toronto. My focus is on developing qua
 <p>Worked with researchers to create analytics from raw positional and orientation data, leading to meaningful performance 
 measures and multiple academic publications.</p>
 <h4 class="resume-title">Freelance | Jul 2013 to present</h4>
+<em>Jul 2013 to present</em>
 <strong>Web Developer</strong>
-<p>Design and development of responsive visual updates to <em>Kathryn Simpson Consulting</em> and <em>Now What Life</em> websites.</p>
-<p>Working with SaaS startup to build Django-based web application.</p>
+<p>Designed and developed responsive visual updates to <em>Kathryn Simpson Consulting</em> and <em>Now What Life</em> websites.</p>
+<p>Developed a responsive Django-based web application prototype for a SaaS startup.</p>
 <h4 class="resume-title">Research in Motion (now BlackBerry) | Jan 2010 to Dec 2010</h4>
 <strong>UX Researcher</strong>
 <p>Usability research on handheld media applications.</p>
