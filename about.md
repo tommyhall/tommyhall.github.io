@@ -7,26 +7,11 @@ I'm Tom Hall.
 I am a developer and UX guy in The Annex, Toronto. My focus is on developing quality user experiences. I love films, music, cats, and getting into Heroes of the Storm deep cuts.
 
 ## Proficiencies
-
-**Coding**
-*  Python
-*  Django
-*  Java
-*  Machine learning
-*  HTML5 & CSS3
-*  Sass
-*  JavaScript
-
-**Data**
-*  pandas
-*  Excel
-*  Octave
-*  machine learning
-
-**Design & Tools**
-*  lol
-*  Vizard
-*  MS Office Suite
+<div class="resume-content">
+<p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, Javascript</p>
+<p><strong>Data:</strong> machine learning, pandas, Excel, Octave</p>
+<p><strong>Design & Tools:</strong> Vizard, atomic.io, MS Office Suite</p>
+</div>
 
 ## Experience
 <div class="resume-content">
