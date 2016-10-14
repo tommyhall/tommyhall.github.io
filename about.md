@@ -19,7 +19,7 @@ I'm Tom Hall. I am a VR & web developer, data enthusiast, and UX guy in the Anne
 <h4 class="align-right">2012 to present</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
-<p>Developed virtual reality applications in the Vizard engine to study the street crossing behaviour of children, using the Oculus Rift. Created analytics from real-time data to assess performance in a number of scenarios.</p>
+<p>Developed virtual reality simulations in the Vizard engine to study the street crossing behaviour of children, using the Oculus Rift. Created analytics from real-time data to assess performance in a number of scenarios.</p>
 <h4 class="resume-title align-left">Freelance</h4>
 <h4 class="align-right">2013 to present</h4>
 <div class="clearfix"></div>
