@@ -20,20 +20,18 @@ I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My
 <h4 class="align-right">Jan 2012 to present</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
-<p>Developed Python-based virtual reality applications to collect real-time data on children's street crossing behaviours.</p>
-<p>Worked with researchers to create analytics from raw positional and orientation data, leading to meaningful performance 
-measures and multiple academic publications.</p>
+<p>Developed virtual reality applications in the Vizard engine to study the street crossing behaviour of children, using the Oculus Rift. Created performance measures from real-time positional and orientation data to analyze performance in a number of scenarios.</p>
 <h4 class="resume-title align-left">Freelance</h4>
 <h4 class="align-right">Jul 2013 to present</h4>
 <div class="clearfix"></div>
 <strong>Web Developer</strong>
-<p>Designed and developed responsive visual updates to <em>Kathryn Simpson Consulting</em> and <em>Now What Life</em> websites.</p>
+<p>Designed and developed responsive website updates for businesses, and a Django-based web application for a SaaS startup.</p>
 <p>Developed a responsive Django-based web application prototype for a SaaS startup.</p>
 <h4 class="resume-title align-left">RIM (now BlackBerry)</h4>
 <h4 class="align-right">Jan 2010 to Dec 2010</h4>
 <div class="clearfix"></div>
 <strong>UX Researcher</strong>
-<p>Performed usability research for handheld media applications.</p>
+<p>Performed UX research for handheld media apps and desktop software.</p>
 </div>
 
 ## Education
