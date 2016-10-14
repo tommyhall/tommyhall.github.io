@@ -16,7 +16,8 @@ I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My
 
 ## Experience
 <div class="resume-content">
-<h4 class="resume-title"><strong>University of Guelph - Child Development Research Unit</strong> | Jan 2012 to present</h4>
+<h4 class="resume-title align-left">University of Guelph - Child Development Research Unit</h4> <p class="align-right">Jan 2012 to present</p>
+<div class="clearfix"></div>
 <strong>Software Developer</strong>
 <p>Developed Python-based virtual reality applications to collect real-time data on children's street crossing behaviours.</p>
 <p>Worked with researchers to create analytics from raw positional and orientation data, leading to meaningful performance 
