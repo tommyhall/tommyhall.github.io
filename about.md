@@ -16,7 +16,7 @@ I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My
 
 ## Experience
 <div class="resume-content">
-<h4 class="resume-title align-left">University of Guelph - Child Development Research Unit</h4> 
+<h4 class="resume-title align-left"><a href="https://cdru.psychology.uoguelph.ca/cdru">University of Guelph - CDRU</a></h4> 
 <h4 class="align-right">Jan 2012 to present</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
@@ -29,7 +29,7 @@ measures and multiple academic publications.</p>
 <strong>Web Developer</strong>
 <p>Designed and developed responsive visual updates to <em>Kathryn Simpson Consulting</em> and <em>Now What Life</em> websites.</p>
 <p>Developed a responsive Django-based web application prototype for a SaaS startup.</p>
-<h4 class="resume-title align-left">Research in Motion (now BlackBerry)</h4>
+<h4 class="resume-title align-left">RIM (now BlackBerry)</h4>
 <h4 class="align-right">Jan 2010 to Dec 2010</h4>
 <div class="clearfix"></div>
 <strong>UX Researcher</strong>
