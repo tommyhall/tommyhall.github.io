@@ -358,6 +358,15 @@ footer {
   text-align: center;
 }
 
+// convenience 
+.p-b-10 {
+  padding-bottom: 10px;
+}
+.p-b-5 {
+  padding-bottom: 5px;
+}
+
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
