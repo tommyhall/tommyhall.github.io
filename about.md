@@ -26,7 +26,6 @@ I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My
 <div class="clearfix"></div>
 <strong>Web Developer</strong>
 <p>Designed and developed responsive website updates for businesses, and a Django-based web application for a SaaS startup.</p>
-<p>Developed a responsive Django-based web application prototype for a SaaS startup.</p>
 <h4 class="resume-title align-left">RIM (now BlackBerry)</h4>
 <h4 class="align-right">Jan 2010 to Dec 2010</h4>
 <div class="clearfix"></div>
