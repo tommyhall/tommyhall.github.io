@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 Hello. Do you have an enquiry, a project you'd like me to work on, or just want to say hi? Give me an email using the form below, and I'll get back to you as soon as possible!
 
-<form action="https://formspree.io/thomas.peter.hall@gmail.com" method="POST">
+<form action="https://formspree.io/thomas.peter.hall@gmail.com" method="POST" class="p-b-5">
   <div class="form-group">
     <label for="name">Your name (required):</label>
     <input type="text" class="form-control" name="name" required>
