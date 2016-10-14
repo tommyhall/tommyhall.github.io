@@ -16,26 +16,35 @@ I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My
 
 ## Experience
 <div class="resume-content">
-<h4 class="resume-title align-left">University of Guelph - Child Development Research Unit</h4> <h4 class="align-right">Jan 2012 to present</h4>
+<h4 class="resume-title align-left">University of Guelph - Child Development Research Unit</h4> 
+<h4 class="align-right">Jan 2012 to present</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
 <p>Developed Python-based virtual reality applications to collect real-time data on children's street crossing behaviours.</p>
 <p>Worked with researchers to create analytics from raw positional and orientation data, leading to meaningful performance 
 measures and multiple academic publications.</p>
-<h4 class="resume-title">Freelance | Jul 2013 to present</h4>
+<h4 class="resume-title align-left">Freelance</h4>
+<h4 class="align-right">Jul 2013 to present</h4>
+<div class="clearfix"></div>
 <strong>Web Developer</strong>
 <p>Designed and developed responsive visual updates to <em>Kathryn Simpson Consulting</em> and <em>Now What Life</em> websites.</p>
 <p>Developed a responsive Django-based web application prototype for a SaaS startup.</p>
-<h4 class="resume-title">Research in Motion (now BlackBerry) | Jan 2010 to Dec 2010</h4>
+<h4 class="resume-title align-left">Research in Motion (now BlackBerry)</h4>
+<h4 class="align-right">Jan 2010 to Dec 2010</h4>
+<div class="clearfix"></div>
 <strong>UX Researcher</strong>
 <p>Performed usability research for handheld media applications.</p>
 </div>
 
 ## Education
 <div class="resume-content">
-<h4 class="resume-title">University of Guelph | 2014</h4>
+<h4 class="resume-title align-left">University of Guelph</h4>
+<h4 class="align-right">2014</h4>
+<div class="clearfix"></div>
 <p>MSc. Computer Science - Human Computer Interaction</p>
-<h4 class="resume-title">University of Guelph | 2009</h4>
+<h4 class="resume-title align-left">University of Guelph</h4>
+<h4 class="align-right">2009</h4>
+<div class="clearfix"></div>
 <p>Bachelor of Computing, Minor in Business Administration</p>
 </div>
 
