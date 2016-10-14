@@ -47,7 +47,7 @@ measures and multiple academic publications.</p>
 <h4 class="align-right">2009</h4>
 <div class="clearfix"></div>
 <strong>Bachelor of Computing</strong>
-<p>Computer Science focus, with a minor in Business Administration</p>
+<p>Computer Science focus, with a minor in Business Administration.</p>
 </div>
 
 ## Publications
