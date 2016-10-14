@@ -16,7 +16,7 @@ I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My
 
 ## Experience
 <div class="resume-content">
-<h4 class="resume-title align-left"><a href="https://cdru.psychology.uoguelph.ca/cdru">University of Guelph - CDRU</a></h4> 
+<h4 class="resume-title align-left">University of Guelph - <a href="https://cdru.psychology.uoguelph.ca/cdru">CDRU</a></h4> 
 <h4 class="align-right">Jan 2012 to present</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
