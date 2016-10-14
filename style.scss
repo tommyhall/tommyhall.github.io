@@ -335,6 +335,11 @@ input[type="submit"]:hover {
   background: $atlanticBlueDarker;
 }
 
+.clear-footer {
+  height:70px;
+  clear:both;
+}
+
 .wrapper-footer {
   position: relative;
   background-color: $atlanticBlue;
