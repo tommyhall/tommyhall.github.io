@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm Tom Hall.
-I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My focus is on research, and developing high quality user experiences. I love films, board games, cats, and *Heroes of the Storm* deep cuts.
+I'm Tom Hall. I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My focus has been on research, and developing high quality user experiences. I love films, board games, cats, and *Heroes of the Storm* deep cuts.
 
 ## Proficiencies
 <div class="resume-content">
@@ -17,17 +16,17 @@ I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My
 ## Experience
 <div class="resume-content">
 <h4 class="resume-title align-left">University of Guelph - <a href="https://cdru.psychology.uoguelph.ca/cdru">CDRU</a></h4> 
-<h4 class="align-right">Jan 2012 to present</h4>
+<h4 class="align-right">2012 to present</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
 <p>Developed virtual reality applications in the Vizard engine to study the street crossing behaviour of children, using the Oculus Rift. Created performance measures from real-time positional and orientation data to analyze performance in a number of scenarios.</p>
 <h4 class="resume-title align-left">Freelance</h4>
-<h4 class="align-right">Jul 2013 to present</h4>
+<h4 class="align-right">2013 to present</h4>
 <div class="clearfix"></div>
 <strong>Web Developer</strong>
 <p>Designed and developed responsive website updates for businesses, and a Django-based web application for a SaaS startup.</p>
-<h4 class="resume-title align-left">RIM (now BlackBerry)</h4>
-<h4 class="align-right">Jan 2010 to Dec 2010</h4>
+<h4 class="resume-title align-left">BlackBerry</h4>
+<h4 class="align-right">Jan-Dec 2010</h4>
 <div class="clearfix"></div>
 <strong>UX Researcher</strong>
 <p>Performed UX research for handheld media apps and desktop software.</p>
