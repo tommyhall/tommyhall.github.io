@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm Tom Hall. I am a VR & web developer, data enthusiast, and UX guy in The Annex, Toronto. My focus has been on research, and developing high quality user experiences. I love films, board games, cats, and *Heroes of the Storm* deep cuts.
+I'm Tom Hall. I am a VR & web developer, data enthusiast, and UX guy in the Annex, Toronto. My focus has been on research, and developing high quality user experiences. I love films, board games, cats, and *Heroes of the Storm* deep cuts.
 
 ## Proficiencies
 <div class="resume-content">
