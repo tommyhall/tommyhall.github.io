@@ -41,11 +41,13 @@ measures and multiple academic publications.</p>
 <h4 class="resume-title align-left">University of Guelph</h4>
 <h4 class="align-right">2014</h4>
 <div class="clearfix"></div>
-<p>MSc. Computer Science - Human Computer Interaction</p>
+<strong>MSc. Computer Science</strong>
+<p>Studies focused on Human-Computer Interaction and artificial intelligence. Thesis was on the effects of personality on code inspection performance.</p>
 <h4 class="resume-title align-left">University of Guelph</h4>
 <h4 class="align-right">2009</h4>
 <div class="clearfix"></div>
-<p>Bachelor of Computing, Minor in Business Administration</p>
+<strong>Bachelor of Computing</strong>
+<p>Computer Science focus, with a minor in Business Administration</p>
 </div>
 
 ## Publications
