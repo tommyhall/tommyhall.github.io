@@ -50,7 +50,7 @@ disorienting. I often couldn’t sit through more than a couple of replays with 
 
 Our solution to this problem was actually fairly simple. When the user was wearing the Oculus Rift, instead of 
 having their perspective shift along with the replay, a screen would appear in the middle of the street in front of them, with the 
-replay projected onto it. It looked very much like a drive-in movie theatre (if anyone remembers those anymore). Because we were no longer forcing the users' perspective to shift quickly, independent of their actual physical movement, this solution proved to be quite effective in combating motion sickness.
+replay projected onto it. It looked very much like a drive-in movie theatre (if anyone remembers those anymore). The user could then simply turn their head and look at the screen. Because we were no longer forcing the users' perspective to shift quickly, independent of their actual physical movement, this solution proved to be quite effective in combating motion sickness.
 
 ### Wrap
 
