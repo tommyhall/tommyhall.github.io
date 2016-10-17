@@ -54,6 +54,8 @@ Our solution to this problem was actually fairly simple and very effective. When
 having their perspective shift along with the replay, a screen would appear in the middle of the street in front of them, with the 
 replay projected onto it. It looked very much like a drive-in movie theatre (if anyone remembers those anymore).
 
+  
+  
 These are just two examples of design considerations in VR development that can significantly improve the experience of your VR application.
 I may write more about VR development in the future, because this is such an exciting time to be (virtually) alive! It will be 
 fascinating to see how designing for VR headsets evolves over the coming months and years.
