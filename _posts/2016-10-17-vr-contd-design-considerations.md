@@ -17,7 +17,7 @@ In our traffic safety training game, which was our first VR system to utilize th
 motion sickness.
 
 There are a number of reasons that motion sickness is a problem with VR headsets, and I’m not going to get into all of them here. The two 
-that we ran into with our training game were having too low of a frame rate, and “moving without moving”.
+that we ran into with our training game were having too low of a frame rate, and “moving without moving”, or shifting the user's perspective while they were sitting still.
 
 ### Refresh rate
 
