@@ -9,7 +9,7 @@ into a tree in the virtual environment, and spilled some coffee in the real worl
 never came). 
 
 So, what *should* have happened in the VR environment when he walked into that tree? In that case, he was sitting in a chair 
-and moving himself around the virtual environment with an Xbox controller, so a sudden stop wouldn't necessarily have been as jarring (because he was never physically moving in the first place). But what if he was using the PlayStation VR, walking around his
+and moving himself around the virtual environment with an Xbox controller, so a sudden stop wouldn't necessarily have been jarring (because he was never physically moving in the first place). But what if he was using the PlayStation VR, walking around his
 living room, and he’d walked into a virtual object? Should we stop him in the VR environment, or let him keep walking through it? What if 
 he was standing next to a virtual wall and leaned his head into it?
 
