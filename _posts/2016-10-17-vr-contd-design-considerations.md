@@ -53,4 +53,4 @@ replay projected onto it. It looked very much like a drive-in movie theatre (if 
 
 ### Wrap
 
-These are just two examples of design considerations in VR development that can significantly improve the experience of your VR application. I may write more about VR development in the future, because this is such an exciting time to be (virtually) alive! It will be fascinating to see how designing for VR headsets evolves over the coming months and years.
+These are just two examples of design considerations in VR development that can significantly improve the experience of your VR application. I may write more about VR development in the future, because this is such an exciting time to be (virtually) alive, and it will be fascinating to see how designing for VR headsets evolves over the coming months and years.
