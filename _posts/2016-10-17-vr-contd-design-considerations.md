@@ -24,8 +24,7 @@ that we ran into with our training game were having too low of a frame rate, and
 Again, without getting into the details, it's considered a best practice for your VR application to run at a minimum of 90fps. The refresh 
 rate on the Oculus Rift DK2 is 75Hz, and thus 75fps became our target. Before the Rift arrived at our lab, our game was running at 60fps (because we were using VSync with monitors running at 60Hz). 
 When we first started to run it on the Rift, we found we weren’t getting close to our targeted 75fps. The increased FOV of the Rift meant that our 
-engine was now rendering more on the display than was visible before, so we were often struggling to even hit the 60fps that we were achieving
-before.
+engine was now rendering more on the display than was visible before, so we were often struggling to even hit the 60fps that we were achieving previously.
 
 This meant that we had cut back on our graphics output. We went back and optimized our 3D models again, removed details from our 
 virtual environment entirely (our trees and shrubs were especially resource-intensive to draw), and stepped up our 
