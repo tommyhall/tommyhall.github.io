@@ -41,7 +41,7 @@ PlayStation VR if they drop below 60fps at all.
 The other significant issue we ran into was “moving without moving”, or when your digital avatar moves around the environment while 
 you’re sitting still in your chair (or on the couch). In our training game, whenever the user made a mistake in crossing the street 
 (such as failing to look both ways before beginning to cross, stepping into the street too close to an oncoming car, etc.), they would 
-be stopped, and shown a replay of what they’d just done wrong, and what they could do to fix the problem.
+be stopped, shown a replay of what they’d just done wrong, and what they could do to fix the problem.
 
 This system worked well when the users were sitting in front of a computer monitor, but with the Oculus Rift it became a motion 
 sickness nightmare. When the replay started, their perspective was being shifted around between replay angles, and it became extremely 
