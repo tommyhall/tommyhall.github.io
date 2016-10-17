@@ -3,7 +3,7 @@ layout: post
 title: VR cont'd - design considerations
 ---
 
-Since VR has , there’s still a lot that we just don’t know about design “best practices”. For example, in my 
+Since VR has come so far in such a short time, there’s still a lot that we just don’t know about design “best practices”. For example, in my 
 [last post](https://tommyhall.ca/experiences-in-virtual-reality/) I told a story of how one of our lab members accidentally walked
 into a tree in the virtual environment, and spilled some coffee in the real world while bracing himself for the impact (that obviously
 never came). 
