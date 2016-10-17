@@ -46,7 +46,7 @@ first into a wall. Luckily, the only thing injured was her pride, but we had to 
 nobody walked into anything in the future. The PlayStation VR has a smaller workable tracking area (3m by 2m) than we had available, but 
 users will have to make sure that their space is clear of hazards (or hire an assistant).
 
-  
+### Wrap
 
 In short, it's great to see this fantastic technology becoming available to more people, and I'm looking forward to seeing it catch on. 
 I've got another post coming with some design considerations for developing VR applications, including some issues that we ran into 
