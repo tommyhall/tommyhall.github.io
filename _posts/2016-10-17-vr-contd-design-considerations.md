@@ -34,9 +34,7 @@ virtual environment entirely (our trees and shrubs were especially resource-inte
 In short, what this meant is that we had to step down our graphical fidelity to make sure that our system ran at the recommended refresh
 rate. At least for the time being, VR applications may just have to live with having less impressive graphics. I had my doubts that the 
 PlayStation 4 would have enough power to manage a high enough frame rate for PlayStation VR applications, but so far it seems to be doing
-alright in that regard.
-
-In fact, Sony is [refusing to certify](http://www.polygon.com/2016/3/17/11256142/sony-framerate-60fps-vr-certification) games for the 
+alright in that regard. In fact, Sony is [refusing to certify](http://www.polygon.com/2016/3/17/11256142/sony-framerate-60fps-vr-certification) games for the 
 PlayStation VR if they drop below 60fps at all.
 
 ### Moving without moving
@@ -53,7 +51,6 @@ disorienting. I often couldn’t sit through more than a couple of replays with 
 Our solution to this problem was actually fairly simple and very effective. When the user was wearing the Oculus Rift, instead of 
 having their perspective shift along with the replay, a screen would appear in the middle of the street in front of them, with the 
 replay projected onto it. It looked very much like a drive-in movie theatre (if anyone remembers those anymore).
-
   
   
 These are just two examples of design considerations in VR development that can significantly improve the experience of your VR application.
