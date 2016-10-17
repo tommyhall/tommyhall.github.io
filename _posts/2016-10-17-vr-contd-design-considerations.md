@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VR cont'd: design considerations
+title: VR cont'd - design considerations
 ---
 
 Since VR has , there’s still a lot that we just don’t know about design “best practices”. For example, in my 
