@@ -45,7 +45,7 @@ be stopped, shown a replay of what they’d just done wrong, and what they could
 
 This system worked well when the users were sitting in front of a computer monitor, but with the Oculus Rift it became a motion 
 sickness nightmare. When the replay started, their perspective was being shifted around between replay angles, and it became extremely 
-disorienting. I often couldn’t sit through more than a couple of replays with the Oculus without having to take an extended break.
+disorienting. I often couldn’t sit through more than a couple of replays without having to take an extended break.
 
 Our solution to this problem was actually fairly simple. When the user was wearing the Oculus Rift, instead of 
 having their perspective shift along with the replay, a screen would appear in the middle of the street in front of them, with the 
