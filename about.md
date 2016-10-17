@@ -5,7 +5,7 @@ permalink: /about/
 ---
 I'm Tom Hall. I am a VR & web developer, data enthusiast, and UX guy in the Annex, Toronto. My focus has been on research, and developing high quality user experiences. I love films, board games, cats, and *Heroes of the Storm* deep cuts.
 
-Feel free to check out my [Github](github.com/tommyhall) and [LinkedIn](www.linkedin.com/in/tom-hall-55087288) profiles.
+Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profiles.
 
 ## Proficiencies
 <div class="resume-content">
