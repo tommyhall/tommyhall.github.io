@@ -50,4 +50,4 @@ users will have to make sure that their space is clear of hazards (or hire an as
 
 In short, it's great to see this fantastic technology becoming available to more people, and I'm looking forward to seeing it catch on. 
 I've got another post coming with some design considerations for developing VR applications, including some issues that we ran into 
-atthe CDRU.
+at the CDRU.
