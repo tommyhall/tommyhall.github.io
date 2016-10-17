@@ -6,7 +6,7 @@ title: Experiences in VR development
 With the release of the [PlayStation VR](https://www.playstation.com/en-ca/explore/playstation-vr/) last week, I thought I'd just take 
 a few minutes to talk about why VR is such an exciting technology and design space, and some of my experiences working in the field.
 
-## A leap forward
+### A leap forward
 
 Firstly, it’s thrilling to see how far virtual reality has come just in the last few years. When I started working at the University of 
 Guelph’s [CDRU](https://cdru.psychology.uoguelph.ca/cdru) back in early 2012, we were running a fairly straightforward VR simulation. It 
@@ -22,7 +22,7 @@ side of the street and turned to walk back, they had to turn in a particular dir
 Today, the PlayStation VR setup consists of a single PlayStation Camera placed in front of your television, and a single HDMI or USB connection 
 to the PlayStation 4. Most importantly, you don’t need a research assistant to follow you around your living room!
 
-## The brain buys in
+### The brain buys in
 
 Perhaps more importantly, the technology available now (the Oculus Rift, HTC Vive, PlayStation VR) is *much* more immersive than what we 
 were using at the CDRU back then. One of the biggest limitations of our headset at the time was its extremely limited field-of-view, or FOV (the
