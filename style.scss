@@ -181,13 +181,6 @@ img {
 .masthead {
   padding: 20px 0;
   //border-bottom: 1px solid $lightGray;
-
-/*   a {
-    text-decoration: none;
-    &:hover {
-      color:$lightGray;
-    }
-  } */
 	
   @include mobile {
     text-align: center;
@@ -273,7 +266,7 @@ nav {
 	  
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $white;
     }
   }
 }
