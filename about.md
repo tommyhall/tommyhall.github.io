@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-I'm Tom Hall. I am a VR & web developer, data enthusiast, and UX guy in the Annex, Toronto. My focus has been on research, and developing high quality user experiences. I love films, board games, cats, and *Heroes of the Storm* deep cuts.
+I'm Tom Hall. I am a VR & web developer, data enthusiast, and UX guy in the Annex, Toronto. My focus is on research, and developing high quality user experiences. I love films, board games, cats, and *Heroes of the Storm* deep cuts.
 
 Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profiles.
 
-## Proficiencies
+<h2 class="p-t-5">Proficiencies</h2>
 <div class="resume-content">
 <p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, Javascript</p>
 <p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
