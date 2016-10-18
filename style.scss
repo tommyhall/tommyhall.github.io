@@ -87,7 +87,8 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $atlanticBlueDarker;
+    color: $atlanticBlue;
+    text-decoration: underline;
   }
 }
 
@@ -254,13 +255,14 @@ nav {
     font-weight: 300;
     letter-spacing: 1px;
 
+    &:hover {
+      color:$atlanticBlue;
+    }
+	  
     @include mobile {
       margin: 0 10px;
       color: $blue;
     }
-  a:hover {
-    color:$atlanticBlue;
-  }
   }
 }
 
