@@ -83,11 +83,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $atlanticBlue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $atlanticBlueDarker;
   }
 }
 
@@ -249,7 +249,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $white;//$darkGray;
+    color: $white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -258,6 +258,9 @@ nav {
       margin: 0 10px;
       color: $blue;
     }
+  a:hover {
+    color:$atlanticBlue;
+  }
   }
 }
 
