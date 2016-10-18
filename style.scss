@@ -231,7 +231,8 @@ img {
   letter-spacing: 1px;
 	
   a:hover {
-    color: $darkGray;
+    color: $gray;
+    text-decoration: none;
   }
 }
 
