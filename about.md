@@ -7,7 +7,7 @@ I'm Tom Hall. I am a VR & web developer, data enthusiast, and UX guy in the Anne
 
 Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profiles.
 
-<h2 class="p-t-5">Proficiencies</h2>
+<h2 class="p-t-10">Proficiencies</h2>
 <div class="resume-content">
 <p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, Javascript</p>
 <p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
