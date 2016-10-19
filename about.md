@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello. I'm a software & web developer in the Annex, Toronto. I love coffee, horror films, board games, cats, and *Heroes of the Storm* deep cuts. I do not love IPAs.
+Hello. I'm a software & web developer in the Annex, Toronto. I love board games, *The Atlantic*, horror films, and *Heroes of the Storm* deep cuts. I do not love IPAs.
 
 Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profiles.
 
@@ -11,7 +11,7 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 <div class="resume-content">
 <p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, JavaScript</p>
 <p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
-<p><strong>Design & Tools:</strong> UX testing & research, atomic.io, GIMP, MS Office Suite</p>
+<p><strong>Design & Tools:</strong> UX testing & research, atomic.io, Git/SVN</p>
 <p><strong>VR:</strong> Vizard, Oculus Rift</p>
 </div>
 
