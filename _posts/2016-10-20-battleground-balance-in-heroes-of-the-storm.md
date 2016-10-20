@@ -16,7 +16,7 @@ To analyze this complaint, I obtained hero win rate statistics for each battlegr
 * Games were played in the Quick Match game mode
 * Games were played in the previous 7 days of *Heroes of the Storm* build 20.6.47133
 
-I looked at games involving players of all skill levels, as well as players at the Gold skill level (approximately the skill level of my friend, so games similar to what he'd experienced). For more information on how skill levels are calculated on HOTS Logs, click [here](http://www.hotslogs.com/Info/MMRInformation). These data sets represented thousands of games.
+I looked at games involving players of all skill levels, as well as only players at the Gold skill level (approximately the skill level of my friend, so games similar to what he'd experienced). For more information on how skill levels are calculated on HOTS Logs, click [here](http://www.hotslogs.com/Info/MMRInformation). These data sets represented thousands of games.
 
 I wanted to look at the distribution of hero win rates across each of the battlegrounds. In perfectly ideal circumstances (a perfectly balanced game), all heroes would have a win rate of right around 50%. So, when we look at how the hero win rates are actually distributed, what does it look like? First, I looked at the data from players of all skill levels, and created box plots for each battleground, with strip plots layered on top (with a bit of jitter added along the x-axis for easier visualization).
 
