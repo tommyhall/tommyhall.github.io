@@ -30,7 +30,7 @@ What happens if we only look at players at the Gold skill level?
 
 Now we can see a bit more of a difference in the battlegrounds! Braxis Holdout and Towers of Doom have nearly an identical mean win rate, but the Braxis Holdout box itself is quite a bit larger, indicating that the win rates have less agreement with one another. Overall, Towers of Doom and Cursed Hollow appear to have a little bit less variability than the others, with the other four having a little more variability.
 
-(Interestingly, the mean win rate for BoE (Battlefield of Eternity) is lower than the other battlegrounds. Presumably, this is due to Gold players on BoE performing differently against players of other skill levels. While Blizzard tries to match players of a similar skill level, approximated by HOTS Logs, players of differing skill levels do still get matched together at times.)
+(Interestingly, the mean win rate for BoE is lower than the other battlegrounds. Presumably, this is due to Gold players on BoE performing differently against players of other skill levels. While Blizzard tries to match players of a similar skill level, approximated by HOTS Logs, players of differing skill levels do still get matched together at times.)
 
 If we look at a density plot of this same data, we get another look at this.
 
