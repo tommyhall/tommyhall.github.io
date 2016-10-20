@@ -3,7 +3,7 @@ layout: post
 title: Battleground balance in Heroes of the Storm
 ---
 
-In the last year I’ve been playing a lot of Blizzard’s *Heroes of the Storm*. Like other [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena)-style games (such as *League of Legends* and *Dota 2*), *Heroes* is a game with a relatively simple concept (two teams of five players, controlling single characters, attempt to destroy the opposing team’s base) disguising a surprising depth of strategy.
+Over the last year I’ve been playing a lot of Blizzard’s *Heroes of the Storm*. Like other [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena)-style games (such as *League of Legends* and *Dota 2*), *Heroes* is a game with a relatively simple concept (two teams of five players, controlling single characters, attempt to destroy the opposing team’s base) disguising a surprising depth of strategy.
 
 One of the obvious sources of strategic depth (as in other MOBA titles) is in which heroes each player selects to make up their team, each with different strengths, weaknesses, and synergies. More unique to *Heroes*, however, is how each battleground has a fundamentally different, and powerful, objective of its own (such as recruiting a pirate to bombard the enemy’s structures, or allowing an allied hero to transform into a gigantic plant-monster).
 
@@ -13,8 +13,8 @@ Just as an appetizer before my longer posts in the coming weeks (pending my comp
 
 To analyze this complaint, I obtained hero win rate statistics for each battleground from [HOTS Logs](http://www.hotslogs.com) with the following features:
 
-* games were played in the Quick Match game mode
-* games were played in the previous 7 days of *Heroes of the Storm* build 20.6.47133
+* Games were played in the Quick Match game mode
+* Games were played in the previous 7 days of *Heroes of the Storm* build 20.6.47133
 
 I looked at games involving players of all skill levels, as well as players at the Gold skill level (approximately the skill level of my friend, so games similar to what he'd experienced). For more information on how skill levels are calculated on HOTS Logs, click [here](http://www.hotslogs.com/Info/MMRInformation). These data sets represented thousands of games.
 
