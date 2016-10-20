@@ -12,20 +12,21 @@ In my next series of posts, I’ll be diving into some of the differences in the
 Just as an appetizer before my longer posts in the coming weeks (pending my completion of some data mining of *Heroes* replay files), I wanted to look into a complaint that a friend had about one of the new battlegrounds: Braxis Holdout. He felt that in the Quick Match game mode (where every player selects their hero before knowing who the opponent heroes are, what battleground will be played, or even which heroes their teammates selected), it was possible to be much more outmatched based on teammate/enemy hero selections than on other battlegrounds. If true, this imbalance would be especially frustrating since the factors creating it cannot be foreseen and countered.
 
 To analyze this complaint, I obtained hero win rate statistics for each battleground from [HOTS Logs](http://www.hotslogs.com) with the following features:
-*  games were played in the Quick Match game mode
-*  games were played in the previous 7 days of *Heroes of the Storm* build 20.6.47133
+
+* games were played in the Quick Match game mode
+* games were played in the previous 7 days of *Heroes of the Storm* build 20.6.47133
 
 I looked at games involving players of all skill levels, as well as players at the Gold skill level (approximately the skill level of my friend, so games similar to what he'd experienced). For more information on how skill levels are calculated on HOTS Logs, click [here](http://www.hotslogs.com/Info/MMRInformation). These data sets represented thousands of games.
 
 I wanted to look at the distribution of hero win rates across each of the battlegrounds. In perfectly ideal circumstances (a perfectly balanced game), all heroes would have a win rate of right around 50%. So, when we look at how the hero win rates are actually distributed, what does it look like? First, I looked at the data from players of all skill levels, and created box plots for each battleground, with strip plots layered on top (with a bit of jitter added along the x-axis for easier visualization).
 
-![Box and strip plot, All skills levels, Quickmatch](({{ site.baseurl }}/images/all_box_and_strip.png))
+![Box and strip plot, All skills levels, Quickmatch]({{ site.baseurl }}/images/all_box_and_strip.png)
 
 At first glance, these box plots do seem to have a fairly high level of agreement with one another. The inter-quartile ranges are all quite similar, stretching from win rates of a little over 45% to a little under 55%. There are some differences in the variability of these battlegrounds, but they don’t appear to be too drastic.
 
 What happens if we only look at players at the Gold skill level?
 
-![Box and strip plot, Gold skill level, Quickmatch](({{ site.baseurl }}/images/gold_box_and_strip.png))
+![Box and strip plot, Gold skill level, Quickmatch]({{ site.baseurl }}/images/gold_box_and_strip.png)
 
 Now we can see a bit more of a difference in the battlegrounds! While Braxis Holdout and Towers of Doom have nearly an identical mean win rate, but the Braxis Holdout box itself is quite a bit larger, indicating that the win rates have less agreement with one another. Overall, Towers of Doom and Cursed Hollow appear to have a little bit less variability than the others, with the other four having a little more variability.
 
@@ -33,7 +34,7 @@ Now we can see a bit more of a difference in the battlegrounds! While Braxis Hol
 
 If we look at a density plot of this same data, we get another look at this.
 
-![Density plot, Gold skill level, Quickmatch](({{ site.baseurl }}/images/gold_density.png))
+![Density plot, Gold skill level, Quickmatch]({{ site.baseurl }}/images/gold_density.png)
 
 Again, Towers of Doom and Cursed Hollow appear to be quite nicely distributed, with most win rates around 50% and dropping off fairly quickly on either side of that mark. We can see that Braxis Holdout Has relatively less agreement around the 50% win rate, with a wider distribution of win rates.
 
