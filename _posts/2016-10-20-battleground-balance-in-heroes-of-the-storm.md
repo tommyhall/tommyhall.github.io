@@ -32,7 +32,7 @@ Now we can see a bit more of a difference in the battlegrounds! Braxis Holdout a
 
 (Interestingly, the mean win rate for BoE is lower than the other battlegrounds. Presumably, this is due to Gold players on BoE performing differently against players of other skill levels, compared to the other battlegrounds. While Blizzard tries to match players of a similar skill level, players of differing skill levels do still get matched together at times.)
 
-If we look at a density plot of this same data, we get another look at this.
+If we look at a density plot of this same data, we get another look at what's happening.
 
 ![Density plot, Gold skill level, Quickmatch]({{ site.baseurl }}/images/gold_density.png)
 
