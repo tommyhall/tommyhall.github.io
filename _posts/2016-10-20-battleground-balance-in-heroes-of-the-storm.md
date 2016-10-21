@@ -38,6 +38,6 @@ If we look at a density plot of this same data, we get another look at what's ha
 
 Again, Towers of Doom and Cursed Hollow appear to be quite nicely distributed, with most win rates around 50% and dropping off fairly quickly on either side of that mark. We can see that Braxis Holdout has relatively less agreement around the 50% win rate, with a wider distribution of win rates overall.
 
-So, does Braxis Holdout appear to be more unbalanced than the other battlegrounds? Looking at the Gold skill level, there does seem to be a higher of heroes performing poorly, especially compared to Towers of Doom and Cursed Hollow. However, part of this could be an artifact of Braxis Holdout being a new battleground, and the metagame not having quite settled yet.
+So, does Braxis Holdout appear to be more unbalanced than the other battlegrounds? Looking at the Gold skill level, there does seem to be a higher number of heroes performing poorly, especially compared to Towers of Doom and Cursed Hollow. However, part of this could be an artifact of Braxis Holdout being a new battleground, and the metagame not having quite settled yet.
 
 I’ll be adding more posts on battleground and game balancing in *Heroes of the Storm* over the coming weeks.
