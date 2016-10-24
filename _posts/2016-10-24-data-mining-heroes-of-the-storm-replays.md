@@ -9,14 +9,14 @@ First, you’ll need to go and get a hold of Blizzard’s [heroprotocol](https:/
 
 That’s unfortunate, because there’s a *ton* of information in these replay files. They contain information such as the interface settings for every player, which hero they chose, what battleground the game was played on, in which game mode, and so on. They also have event information such as when minions or heroes are killed, when heroes selected a new talent, and coordinate information of just about anything that happened in the game. Since the documentation didn’t give many details at all about what was in the files, what I ended up doing was opening up some replays and just digging around for a while. I was trying to see what kinds of things were in there, and how they fit together.
 
-So, let's walk through an example. To get started, what you need to do is open a replay file and turn it into a usable Python object. Replays in *Heroes* are in the mpq format, so we need to use the mpq library (included with heroprotocol).
+So, let's walk through an example. To get started, what you need to do is open a replay file and turn it into a usable Python object. Replays in *Heroes* are in the mpq format, so we need to use the mpq library (included with *heroprotocol*).
 
 ```python
 from mpq import MPQArchive
 mpq = MPQArchive('your_replay.StormReplay')
 ```
 
-You're still going to need the heroprotocol library itself to get something meaningful from the replay. You'll want to use the protocol with the same build number as the replay you're examining (e.g. 'protocol47133' if your replay is from build 47133). If these don't match, sometimes the protocol won't be able to read the replay properly. It appears that in most cases you can use just about any protocol to read the replay's header information (which contains the replay's build number), so we'll use that to help us load the correct protocol without having to know what build our replay was from beforehand.  At the time of this writing, the latest *Heroes* build is 47133, so we're just going to use that.
+You're still going to need the *heroprotocol* library itself to get something meaningful from the replay. You'll want to use the protocol with the same build number as the replay you're examining (e.g. 'protocol47133' if your replay is from build 47133). If these don't match, sometimes the protocol won't be able to read the replay properly. It appears that in most cases you can use just about any protocol to read the replay's header information (which contains the replay's build number), so we'll use that to help us load the correct protocol without having to know what build our replay was from beforehand.  At the time of this writing, the latest *Heroes* build is 47133, so we're just going to use that.
 
 ```python
 from heroprotocol import protocol47133 as protocol
@@ -50,7 +50,7 @@ for player in player_list:
   ...
 ```
 
-What if we wanted to get a look at information on units and statistics? A lot of that is stored away in what heroprotocol calls *tracker events*. They can be acquired in a similar way to the *detail* we grabbed above:
+What if we wanted to get a look at information on units and statistics? A lot of that is stored away in what *heroprotocol* calls *tracker events*. They can be acquired in a similar way to the *details* we grabbed above:
 
 ```python
 tracker_events = protocol.decode_replay_tracker_events(
@@ -58,7 +58,7 @@ tracker_events = protocol.decode_replay_tracker_events(
 )
 ```
 
-This returns a generator object, so you can loop through it and take a look at the different kinds of data found in there. One of the things I was interested in researching was the influence that hero talent choices have on the game. We can get that information from the 'EndOfGameTalentChoices' event, which is a type of 'NNet.Replay.Tracker.SStatGameEvent' event.
+This returns a generator object, so you can loop through it and take a look at the different kinds of data found in there. One of the things I was interested in researching was the influence that hero talent choices have on the game. We can get that information from the 'EndOfGameTalentChoices' event, which is a type of tracker event.
 
 ```python
 for tracker_event in tracker_events:
