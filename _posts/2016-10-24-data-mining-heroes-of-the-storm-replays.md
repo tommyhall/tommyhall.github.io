@@ -53,7 +53,9 @@ for player in player_list:
 What if we wanted to get a look at information on units and statistics? A lot of that is stored away in what heroprotocol calls *tracker events*. They can be acquired in a similar way to the *detail* we grabbed above:
 
 ```python
-tracker_events = protocol.decode_replay_tracker_events(mpq.read_file('replay.tracker.events'))
+tracker_events = protocol.decode_replay_tracker_events(
+  mpq.read_file('replay.tracker.events')
+)
 ```
 
 This returns a generator object, so you can loop through it and take a look at the different kinds of data found in there. One of the things I was interested in researching was the influence that hero talent choices have on the game. We can get that information from the 'EndOfGameTalentChoices' event, which is a type of 'NNet.Replay.Tracker.SStatGameEvent' event.
