@@ -16,7 +16,7 @@ from mpq import MPQArchive
 mpq = MPQArchive('your_replay.StormReplay')
 ```
 
-You're still going to need the heroprotocol library itself to get something meaningful from the replay. You'll want to use the protocol with the same build number as the replay you're examining (e.g. protocol47133 if your replay is from build 47133). If these don't match, sometimes the protocol won't be able to read the replay properly. It appears that in most cases you can use just about any protocol to read the replay's header information (which contains the replay's build number), so we'll use that to help us load the correct protocol without having to know what build our replay was from beforehand.  At the time of this writing, the latest *Heroes* build is 47133, so we're just going to use that.
+You're still going to need the heroprotocol library itself to get something meaningful from the replay. You'll want to use the protocol with the same build number as the replay you're examining (e.g. 'protocol47133' if your replay is from build 47133). If these don't match, sometimes the protocol won't be able to read the replay properly. It appears that in most cases you can use just about any protocol to read the replay's header information (which contains the replay's build number), so we'll use that to help us load the correct protocol without having to know what build our replay was from beforehand.  At the time of this writing, the latest *Heroes* build is 47133, so we're just going to use that.
 
 ```python
 from heroprotocol import protocol47133 as protocol
