@@ -67,6 +67,6 @@ for tracker_event in tracker_events:
       talents = tracker_event['m_stringData']
 ```
 
-Of course, you'll likely still have to process the result in some way, depending on what your end goal is. One issue that I ran into with a different type of event dealing with talent selection is that you had to cross-reference ID numbers with the player IDs (obtained in one of the earlier steps above), but in some replays these IDs didn't always match up. I'm still not sure why this is the case, but I suspect it has something to do with the presence of Observers in the replays I was parsing.
+Of course, you'll likely still have to process the result in some way, depending on what your end goal is. One issue that I ran into with a different type of event dealing with talent selection is that I had to cross-reference ID numbers with the player IDs (obtained in one of the earlier steps above), but in some replays these IDs didn't always match up. I'm still not sure why this is the case, but I suspect it has something to do with the presence of Observers in the replays I was parsing.
 
 Anyway, this should give you a good idea of where to start with *Heroes* replay files! My [first pass](https://github.com/tommyhall/hotsparser) at a replay parser is up on Github now if you’d like to check it out.
