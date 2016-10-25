@@ -9,7 +9,9 @@
   //-webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   //box-shadow: 3px 3px rgba(0,0,0,0.1);
   margin: 20px 0 20px 0;
-  overflow: scroll; // so ugly
+  //overflow: scroll; // so ugly
+  overflow-y: auto;
+  overflow-x: hidden;
   font-size: 15px;
   border-radius: 3px;
 }
