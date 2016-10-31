@@ -27,7 +27,7 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 <div class="clearfix"></div>
 <strong>Web Developer</strong>
 <p>Designed and developed responsive website updates for businesses, and a Django-based web application for a SaaS startup.</p>
-<h4 class="resume-title align-left">BlackBerry</h4>
+<h4 class="resume-title align-left"><a href="http://ca.blackberry.com/home.html">BlackBerry</a></h4>
 <h4 class="align-right">Jan-Dec 2010</h4>
 <div class="clearfix"></div>
 <strong>UX Researcher</strong>
@@ -36,12 +36,12 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 
 ## Education
 <div class="resume-content">
-<h4 class="resume-title align-left">University of Guelph</h4>
+<h4 class="resume-title align-left"><a href="https://www.uoguelph.ca/">University of Guelph</a></h4>
 <h4 class="align-right">2014</h4>
 <div class="clearfix"></div>
 <strong>MSc. Computer Science</strong>
 <p>Studies focused on Human-Computer Interaction and artificial intelligence. Thesis was on the effects of personality on code inspection performance.</p>
-<h4 class="resume-title align-left">University of Guelph</h4>
+<h4 class="resume-title align-left"><a href="https://www.uoguelph.ca/">University of Guelph</a></h4>
 <h4 class="align-right">2009</h4>
 <div class="clearfix"></div>
 <strong>Bachelor of Computing</strong>
