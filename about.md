@@ -9,7 +9,7 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 
 <h2 class="p-t-10">Proficiencies</h2>
 <div class="resume-content">
-<p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, JavaScript</p>
+<p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, JavaScript, JQuery</p>
 <p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
 <p><strong>Design & Tools:</strong> UX testing & research, atomic.io, wireframe.cc, GIMP, Git/SVN</p>
 <p><strong>VR:</strong> Vizard, Oculus Rift</p>
