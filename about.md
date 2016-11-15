@@ -31,7 +31,7 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 <h4 class="align-right">Jan-Dec 2010</h4>
 <div class="clearfix"></div>
 <strong>UX Researcher</strong>
-<p>Performed UX research for handheld media apps and desktop software.</p>
+<p>Performed UX research for mobile media apps and desktop software.</p>
 </div>
 
 ## Education
