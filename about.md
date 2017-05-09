@@ -30,7 +30,7 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 <h4 class="resume-title align-left">Freelance</h4>
 <h4 class="align-right">2013 to 2017</h4>
 <div class="clearfix"></div>
-<strong>Web Developer</strong>
+<strong>Full Stack Web Designer</strong>
 <p>Designed and developed responsive website updates for businesses, as well as Django-based web applications.</p>
 <h4 class="resume-title align-left"><a href="http://ca.blackberry.com/home.html">BlackBerry</a></h4>
 <h4 class="align-right">Jan-Dec 2010</h4>
