@@ -22,7 +22,7 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 <div class="clearfix"></div>
 <strong>User Experience Designer, co-founder</strong>
 <p>Performing UX research and design. User interviews, usability testing, expert evaluation, rapid prototyping, wireframe and mockup design.</p>
-<h4 class="resume-title align-left"><a href="https://cdru.psychology.uoguelph.ca/cdru">University of Guelph - CDRU</a></h4> 
+<h4 class="resume-title align-left"><a href="https://cdru.psychology.uoguelph.ca/cdru">Child Development Research Unit</a></h4> 
 <h4 class="align-right">2012 to 2016</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
