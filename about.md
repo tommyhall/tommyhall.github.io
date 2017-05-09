@@ -17,13 +17,18 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 
 ## Experience
 <div class="resume-content">
+<h4 class="resume-title align-left"><a href="http://thinkux.ca">ThinkUX</a></h4>
+<h4 class="align-right">2017 to present</h4>
+<div class="clearfix"></div>
+<strong>User Experience Designer, co-founder</strong>
+<p>Performing UX research and design. User interviews, usability testing, expert evaluation, rapid prototyping, wireframe and mockup design.</p>
 <h4 class="resume-title align-left"><a href="https://cdru.psychology.uoguelph.ca/cdru">University of Guelph - CDRU</a></h4> 
-<h4 class="align-right">2012 to present</h4>
+<h4 class="align-right">2012 to 2016</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
-<p>Developed virtual reality simulations in the Vizard engine to study the street crossing behaviour of children, using the Oculus Rift. Created analytics from real-time data to assess performance in a number of scenarios.</p>
+<p>Designed and developed virtual reality simulations to study the street crossing behaviour of children, using the Oculus Rift. Created analytics from real-time data to assess performance in a number of scenarios, contributing to academic publication.</p>
 <h4 class="resume-title align-left">Freelance</h4>
-<h4 class="align-right">2013 to present</h4>
+<h4 class="align-right">2013 to 2017</h4>
 <div class="clearfix"></div>
 <strong>Web Developer</strong>
 <p>Designed and developed responsive website updates for businesses, as well as Django-based web applications.</p>
@@ -31,7 +36,7 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 <h4 class="align-right">Jan-Dec 2010</h4>
 <div class="clearfix"></div>
 <strong>UX Researcher</strong>
-<p>Performed UX research for mobile media apps and desktop software.</p>
+<p>Performed UX research for mobile media apps and desktop software, including usability testing, expert evaluation, focus groups, and user interviews.</p>
 </div>
 
 ## Education
