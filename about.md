@@ -11,7 +11,7 @@ Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](
 <div class="resume-content">
 <p><strong>Coding:</strong> Python, Django, Java, HTML5, CSS3, Sass, JavaScript, JQuery</p>
 <p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
-<p><strong>Design & Tools:</strong> UX testing & research, Balsamiq, Marvel, Git, SVN</p>
+<p><strong>Design & Tools:</strong> UX testing & research, Sketch, Balsamiq, Marvel</p>
 <p><strong>VR:</strong> Vizard, Oculus Rift</p>
 </div>
 
