@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hello. I'm a UX Designer and Software Developer in the Annex, Toronto. I love board games, *The Atlantic*, horror films, and *Heroes of the Storm* deep cuts. I do not love IPAs.
 
-Feel free to check out my [Github](https://github.com/tommyhall) and [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profiles.
+Feel free to check out my [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profile.
 
 <h2 class="p-t-10">Proficiencies</h2>
 <div class="resume-content">
