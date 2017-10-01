@@ -205,14 +205,13 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 2.5em;
   background: $white;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #lightGray;
 }
 
 .masthead {
   padding: 20px 0;
-  //border-bottom: 1px solid $lightGray;
 	
   @include mobile {
     text-align: center;
