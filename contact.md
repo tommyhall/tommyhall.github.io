@@ -6,12 +6,12 @@ permalink: /contact/
 <div class="row justify-content-center">
   <div class="col-12 col-md-10 col-xl-8">
     <h1 class="headline">Let's work together.</h1>
-    <h3>thomas.peter.hall@gmail.com</h3>
+    <h3 class="contact-email">thomas.peter.hall@gmail.com</h3>
   </div>
 </div>
 
 <div class="row justify-content-center">
-  <p><i class="fa fa-envelope" aria-hidden="true"></i>&emsp;<i class="fa fa-linkedin" aria-hidden="true"></i>&emsp;<i class="fa fa-medium" aria-hidden="true"></i></p>
+  <p class="contact-icons"><a href=""><i class="fa fa-envelope" aria-hidden="true"></i></a>&emsp;<a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>&emsp;<a href=""><i class="fa fa-medium" aria-hidden="true"></i></a></p>
 </div>
 
 <form action="https://formspree.io/thomas.peter.hall@gmail.com" method="POST" class="p-b-5">
