@@ -16,9 +16,9 @@ layout: default
     </div>
   </div>
   
-  <div class="row portfolio-item">
-    <div class="col-10 offset-1 col-md-10 offset-md-1">
-      <div class="row">
+  <div class="row portfolio-item justify-content-center">
+    
+    
         <div class="col-12 col-sm-5">
           <img class="img-responsive mx-auto" src="http://via.placeholder.com/600x300" alt="Singularity University case study cover image" />
         </div>
@@ -28,8 +28,7 @@ layout: default
           <p>Singularity University had launched an online learning portal to complement their offline offerings, and engaged with us to help them increase the number of people starting their introductory course and signing up for their course series. We performed an expert evaluation and comparative analysis to identify some areas for improvement, and designed new wireframes for key screens.</p>
           <p><em>Case study coming soon.</em></p>
         </div>
-      </div>
-    </div>
+    
   </div>
   
   <div class="row portfolio-item">
