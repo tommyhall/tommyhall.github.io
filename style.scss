@@ -147,6 +147,9 @@ img {
   a {
     color: $darkGray;
   }
+  a:hover {
+    color: $gray;
+  }
 }
 
 .date {
