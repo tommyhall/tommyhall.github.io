@@ -152,6 +152,15 @@ img {
   }
 }
 
+.footer-icons {
+  a {
+    color: $white;
+  }
+  a:hover {
+    color: $gray;
+  }
+}
+
 .date {
   font-style: italic;
   color: $gray;
