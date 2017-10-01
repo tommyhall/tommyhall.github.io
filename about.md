@@ -6,8 +6,8 @@ permalink: /about/
 
 <div class="row justify-content-center">
   <div class="col-12 col-md-10 col-xl-8">
-    <h1 class="headline p-b-30">About Tom</h1>
-    <p>Hello! I'm a UX researcher, designer, and software developer based in Toronto. I love board games, <em>The Atlantic</em>, classic horror films, and <em>Heroes of the Storm</em> deep cuts. I do not love IPAs.</p>
+    <h1 class="headline p-b-30">Hello!</h1>
+    <p>I'm a UX researcher, designer, and software developer based in Toronto. I love board games, <em>The Atlantic</em>, classic horror films, and <em>Heroes of the Storm</em> deep cuts. I do not love IPAs.</p>
     <p>Sometimes I write articles on <a href="https://medium.com/@tjphall">Medium</a>. Feel free to check out my <a href="https://www.linkedin.com/in/tom-hall-55087288">LinkedIn profile</a>.</p>
 
 <h2 class="p-t-10">Skills</h2>
