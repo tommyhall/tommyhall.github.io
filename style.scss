@@ -280,12 +280,19 @@ nav {
   border-top: 1px solid #eee;
   margin-top: 4em;
   padding-top: 1.5em;
+  h1 {
+    color: $atlanticBlue;
+    font-size: 36px;
+  }
 }
 
 .portfolio-item {
   margin-top: 80px;
   img {
     margin-top: 4.3em;
+  }
+  h1 {
+    font-size:24px;
   }
   .services {
     font-weight:600;
