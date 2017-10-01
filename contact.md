@@ -11,7 +11,7 @@ permalink: /contact/
 </div>
 
 <div class="row justify-content-center">
-  <p class="contact-icons"><a href=""><i class="fa fa-envelope" aria-hidden="true"></i></a>&emsp;<a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>&emsp;<a href=""><i class="fa fa-medium" aria-hidden="true"></i></a></p>
+  <p class="contact-icons"><a href="mailto:thomas.peter.hall@gmail.com?Subject=Hello" target="_top"><i class="fa fa-envelope" aria-hidden="true"></i></a>&emsp;<a href="https://www.linkedin.com/in/tom-hall-55087288"><i class="fa fa-linkedin" aria-hidden="true"></i></a>&emsp;<a href="https://medium.com/@tjphall"><i class="fa fa-medium" aria-hidden="true"></i></a></p>
 </div>
 
 <div class="row justify-content-center p-b-30" style="padding-top:50px;">
