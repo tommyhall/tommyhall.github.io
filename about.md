@@ -6,9 +6,8 @@ permalink: /about/
 
 <div class="row justify-content-center">
   <div class="col-12 col-md-10 col-xl-8">
-Hello. I'm a UX Designer and Software Developer in the Annex, Toronto. I love board games, *The Atlantic*, horror films, and *Heroes of the Storm* deep cuts. I do not love IPAs.
-
-Feel free to check out my [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profile.
+    <p>Hello. I'm a UX Designer and Software Developer in the Annex, Toronto. I love board games, <em>The Atlantic</em>, horror films, and <em>Heroes of the Storm</em> deep cuts. I do not love IPAs.</p>
+    <p>Sometimes I write articles on <a href="https://medium.com/@tjphall">Medium</a>. Feel free to check out my <a href="https://www.linkedin.com/in/tom-hall-55087288">LinkedIn profile</a>.</p>
 
 <h2 class="p-t-10">Skills</h2>
 <div class="resume-content">
