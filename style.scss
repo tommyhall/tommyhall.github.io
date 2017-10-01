@@ -144,6 +144,9 @@ img {
 .contact-icons {
   font-size: 28px;
   text-align: center;
+  a {
+    color: $darkGray;
+  }
 }
 
 .date {
