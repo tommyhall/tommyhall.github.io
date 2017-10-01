@@ -416,12 +416,13 @@ input[type="submit"]:hover {
 
 .wrapper-footer {
   position: relative;
-  background-color: $atlanticBlue;
+  background-color: $darkerGray;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  color: $white;	
 }
 
 // convenience 
