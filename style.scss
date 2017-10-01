@@ -242,14 +242,14 @@ img {
 }
 
 .site-name {
-//   margin: 0;
-//   margin-top: 16px;
+  margin: 0;
   color: $darkerGray;
   cursor: pointer;
   font-family: $droid;
   font-weight: 300;
   font-size: 21px;
   letter-spacing: 1px;
+  line-height: 150%;
 	
   a:hover {
     color: $atlanticBlue;
