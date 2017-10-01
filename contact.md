@@ -1,9 +1,18 @@
 ---
-layout: page
+layout: default
 title: Contact
 permalink: /contact/
 ---
-Do you have feedback, an enquiry, or just want to say hi? Send me an email using the form below and I'll get back to you as soon as possible!
+<div class="row justify-content-center">
+  <div class="col-12 col-md-10 col-xl-8">
+    <h1>Let's work together.</h1>
+    <h3>thomas.peter.hall@gmail.com</h3>
+  </div>
+</div>
+
+<div class="row" justify-content-center">
+  <p><i class="fa fa-envelope" aria-hidden="true"></i>&emsp;<i class="fa fa-linkedin" aria-hidden="true"></i>&emsp;<i class="fa fa-medium" aria-hidden="true"></i></p>
+</div>
 
 <form action="https://formspree.io/thomas.peter.hall@gmail.com" method="POST" class="p-b-5">
   <div class="form-group">
@@ -20,7 +29,7 @@ Do you have feedback, an enquiry, or just want to say hi? Send me an email using
   </div>
   <div class="form-group">
     <label for="_message">Message:</label>
-    <textarea name="_message" class="form-control"></textarea>
+    <textarea rows="8" name="_message" class="form-control"></textarea>
   </div>
   <div class="form-group">
     <input type="submit" value="Send">
