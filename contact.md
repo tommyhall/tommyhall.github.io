@@ -14,7 +14,7 @@ permalink: /contact/
   <p class="contact-icons"><a href=""><i class="fa fa-envelope" aria-hidden="true"></i></a>&emsp;<a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>&emsp;<a href=""><i class="fa fa-medium" aria-hidden="true"></i></a></p>
 </div>
 
-<div class="row justify-content-center">
+<div class="row justify-content-center p-b-30" style="padding-top:50px;">
   <div class="col-12 col-md-8 col-xl-6">
   <form action="https://formspree.io/thomas.peter.hall@gmail.com" method="POST" class="p-b-5">
   <div class="form-group">
