@@ -14,7 +14,9 @@ permalink: /contact/
   <p class="contact-icons"><a href=""><i class="fa fa-envelope" aria-hidden="true"></i></a>&emsp;<a href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>&emsp;<a href=""><i class="fa fa-medium" aria-hidden="true"></i></a></p>
 </div>
 
-<form action="https://formspree.io/thomas.peter.hall@gmail.com" method="POST" class="p-b-5">
+<div class="row justify-content-center">
+  <div class="col-12 col-md-10 col-xl-8">
+  <form action="https://formspree.io/thomas.peter.hall@gmail.com" method="POST" class="p-b-5">
   <div class="form-group">
     <label for="name">Your name (required):</label>
     <input type="text" class="form-control" name="name" required>
@@ -35,3 +37,5 @@ permalink: /contact/
     <input type="submit" value="Send">
   </div>
 </form>
+  </div>
+</div>
