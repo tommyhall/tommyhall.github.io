@@ -130,6 +130,11 @@ img {
   max-width: none;
 }
 
+.headline {
+  text-align:center;
+  font-size:48px;
+}
+
 .date {
   font-style: italic;
   color: $gray;
@@ -268,13 +273,6 @@ nav {
       margin: 0 10px;
       color: $white;
     }
-  }
-}
-
-.jumbotron {
-  background: $white;
-  h1 {
-    font-size: 63px;
   }
 }
 
