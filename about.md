@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 <div class="row justify-content-center">
-  <div class="col-12 col-md-10">
+  <div class="col-12 col-md-10 col-xl-8">
 Hello. I'm a UX Designer and Software Developer in the Annex, Toronto. I love board games, *The Atlantic*, horror films, and *Heroes of the Storm* deep cuts. I do not love IPAs.
 
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profile.
 
-<h2 class="p-t-10">Proficiencies</h2>
+<h2 class="p-t-10">Skills</h2>
 <div class="resume-content">
 <p><strong>Design & Tools:</strong> UX testing & research, UXPin, Sketch, Balsamiq, Marvel</p>
 <p><strong>Coding:</strong> Python, HTML5, CSS3, Sass, JavaScript, JQuery, Django, Java</p>
@@ -18,7 +18,7 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/tom-hall-550872
 <p><strong>VR:</strong> Vizard, Oculus Rift</p>
 </div>
 
-## Experience
+<h2>Experience</h2>
 <div class="resume-content">
 <h4 class="resume-title align-left"><a href="http://thinkux.ca">ThinkUX</a></h4>
 <h4 class="align-right">2017 to present</h4>
@@ -42,7 +42,7 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/tom-hall-550872
 <p>Performed UX research for mobile media apps and desktop software, including usability testing, expert evaluation, focus groups, and user interviews.</p>
 </div>
 
-## Education
+<h2>Education</h2>
 <div class="resume-content">
 <h4 class="resume-title align-left"><a href="https://www.uoguelph.ca/">University of Guelph</a></h4>
 <h4 class="align-right">2014</h4>
@@ -56,7 +56,7 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/tom-hall-550872
 <p>Computer Science focus, with a minor in Business Administration.</p>
 </div>
 
-## Publications
+<h2>Publications</h2>
 <div class="resume-content">
 <p>Morrongiello, B.A., Corbett, M., Switzer, J., & Hall, T. (2015). Using a virtual environment to study pedestrian behaviors: How does time pressure affect children and adults crossing streets? <em>Journal of Pediatric Psychology.</em></p>
 <p>Corbett, M., Morrongiello, B.A, Vierich, R., Beer, J. & Hall, T. (Dec, 2012). Using a virtual reality pedestrian simulator to study child pedestrian injury risk behaviour. <em>Presented at the 18th ACM Symposium on Virtual Reality Software and Technology.</em></p>
