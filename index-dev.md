@@ -3,18 +3,21 @@ layout: default
 ---
 
 <div class="container">
+  
   <div class="row">
     <div class="col-12">
       <h1 class="headline">Tom Hall is a Toronto-based UX researcher, designer, and developer.</h1>
     </div>
   </div>
+  
   <div class="row landing-page-section">
     <div class="col-12">
       <h1 class="text-center">Featured Work</h1>
     </div>
   </div>
+  
   <div class="row portfolio-item">
-    <div class="col-10 col-offset-1 col-md-10 col-md-offset-1">
+    <div class="col-10 offset-1 col-md-10 offset-md-1">
       <div class="row">
         <div class="col-12 col-sm-5">
           <img class="img-responsive mx-auto" src="http://via.placeholder.com/600x300" alt="Singularity University case study cover image" />
@@ -28,8 +31,11 @@ layout: default
       </div>
     </div>
   </div>
+  
   <div class="row portfolio-item">
   </div>
+  
   <div class="row portfolio-item">
   </div>
+  
 </div>
