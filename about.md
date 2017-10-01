@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div class="row justify-content-center">
+  <div class="col-12 col-md-10">
 Hello. I'm a UX Designer and Software Developer in the Annex, Toronto. I love board games, *The Atlantic*, horror films, and *Heroes of the Storm* deep cuts. I do not love IPAs.
 
 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/tom-hall-55087288) profile.
@@ -57,4 +59,7 @@ Feel free to check out my [LinkedIn](https://www.linkedin.com/in/tom-hall-550872
 <div class="resume-content">
 <p>Morrongiello, B.A., Corbett, M., Switzer, J., & Hall, T. (2015). Using a virtual environment to study pedestrian behaviors: How does time pressure affect children and adults crossing streets? <em>Journal of Pediatric Psychology.</em></p>
 <p>Corbett, M., Morrongiello, B.A, Vierich, R., Beer, J. & Hall, T. (Dec, 2012). Using a virtual reality pedestrian simulator to study child pedestrian injury risk behaviour. <em>Presented at the 18th ACM Symposium on Virtual Reality Software and Technology.</em></p>
+</div>
+
+  </div>
 </div>
