@@ -229,6 +229,10 @@ img {
 
 .site-info {
   float: left;
+	
+  margin-top: 16px; // @TODO: Vertically middle align
+  font-family: $droid;
+  font-size: 21px;
 
   @include mobile {
     float: none;
@@ -238,8 +242,8 @@ img {
 }
 
 .site-name {
-  margin: 0;
-  margin-top: 16px;
+//   margin: 0;
+//   margin-top: 16px;
   color: $darkerGray;
   cursor: pointer;
   font-family: $droid;
@@ -253,16 +257,16 @@ img {
   }
 }
 
-.site-description {
-  margin: -5px 0 0 0;
-  color: $atlanticBlue;
-  font-size: 19px;
-  font-family: $droid;
+// .site-description {
+//   margin: -5px 0 0 0;
+//   color: $atlanticBlue;
+//   font-size: 19px;
+//   font-family: $droid;
 
-  @include mobile {
-    margin: 3px 0;
-  }
-}
+//   @include mobile {
+//     margin: 3px 0;
+//   }
+// }
 
 nav {
   float: right;
