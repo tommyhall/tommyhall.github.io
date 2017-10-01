@@ -6,7 +6,7 @@ permalink: /contact/
 <div class="row justify-content-center">
   <div class="col-12 col-md-10 col-xl-8">
     <h1 class="headline">Let's work together.</h1>
-    <h3 class="contact-email">thomas.peter.hall@gmail.com</h3>
+    <p class="contact-email">thomas.peter.hall@gmail.com</p>
   </div>
 </div>
 
