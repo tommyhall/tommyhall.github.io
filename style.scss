@@ -233,6 +233,7 @@ img {
   margin-top: 16px; // @TODO: Vertically middle align
   font-family: $droid;
   font-size: 21px;
+  margin-bottom: 12px;
 
   @include mobile {
     float: none;
