@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="container">
+
   
   <div class="row">
     <div class="col-12">
@@ -34,4 +34,4 @@ layout: default
   <div class="row portfolio-item">
   </div>
   
-</div>
+
