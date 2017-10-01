@@ -198,6 +198,7 @@ img {
 .wrapper-masthead {
   margin-bottom: 50px;
   background: $white;
+  border-bottom: 1px solid #eee;
 }
 
 .masthead {
@@ -238,7 +239,7 @@ img {
 
 .site-name {
   margin: 0;
-  margin-top:23px;
+  margin-top:16px;
   color: $darkerGray;
   cursor: pointer;
   font-family: $droid;
@@ -265,7 +266,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 16px; // @TODO: Vertically middle align
   font-family: $droid;
   font-size: 21px;
 
