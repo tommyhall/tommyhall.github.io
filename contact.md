@@ -34,7 +34,7 @@ permalink: /contact/
     <textarea rows="8" name="_message" class="form-control"></textarea>
   </div>
   <div class="form-group">
-    <input type="submit" class="btn-block" value="Send">
+    <input type="submit" class="btn-block" value="Send Message">
   </div>
 </form>
   </div>
