@@ -25,16 +25,32 @@ permalink: /about/
 <div class="clearfix"></div>
 <strong>User Experience Designer, co-founder</strong>
 <p>Performing UX research and design. User interviews, usability testing, expert evaluation, rapid prototyping, wireframe and mockup design.</p>
+  
 <h4 class="resume-title align-left"><a href="https://cdru.psychology.uoguelph.ca/cdru">Child Development Research Unit</a></h4> 
 <h4 class="resume-date align-right">2012 to 2016</h4>
 <div class="clearfix"></div>
-<strong>Software Developer</strong>
-<p>Designed and developed virtual reality simulations to study the street crossing behaviour of children, using the Oculus Rift. Created analytics from real-time data to assess performance in a number of scenarios, contributing to academic publication.</p>
+<strong>Software Developer &amp; UX Designer</strong>
+<ul>
+  <li>Developed three virtual reality simulations to study the street crossing and pedestrian behaviour of children.</li>
+  <li>Created analytics from real-time data to assess performance in a number of scenarios, contributing to academic publication.</li>
+  <li>Wrote and maintained technical documentation, including system design documents, reference, research reports, and data codebooks.</li>
+  <li>Improved the UX of the simulations by researching and implementing virtual reality design improvements in areas such as comfortable viewing distances, motion sickness, responsiveness, and cue conflict, after the project transitioned to a new VR technology (the Oculus Rift).</li>
+  <li>These improvements contributed to a significantly improved participant completion rate (close to 100%).</li>
+  <li>Technologies: Python, C#, Visual Basic, Trello, Subversion, Vizard, Oculus Rift</li>
+</ul>
+  
 <h4 class="resume-title align-left">Freelance</h4>
 <h4 class="resume-date align-right">2013 to 2017</h4>
 <div class="clearfix"></div>
 <strong>Full Stack Web Designer</strong>
 <p>Designed and developed responsive website updates for businesses, as well as Django-based web applications.</p>
+ 
+<h4 class="resume-title align-left">Freelance</h4>
+<h4 class="resume-date align-right">Apr-Oct 2011</h4>
+<div class="clearfix"></div>
+<strong>Software Developer</strong>
+<p>Developed an application to interface with the University of Guelph's DRIVE Lab simulator, providing real time updates to a dash-mounted display, showing metrics such as the driver's following distance. The research data collected from this application contributed to a PhD dissertaion.</p>
+
 <h4 class="resume-title align-left"><a href="http://ca.blackberry.com/home.html">BlackBerry</a></h4>
 <h4 class="resume-date align-right">Jan-Dec 2010</h4>
 <div class="clearfix"></div>
