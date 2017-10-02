@@ -12,9 +12,10 @@ permalink: /about/
 
 <h2 class="p-t-10">Skills</h2>
 <div class="resume-content">
-<p><strong>Design & Tools:</strong> UX testing & research, prototyping, UXPin, Balsamiq, Proto.io, Adobe Xd, Marvel</p>
-<p><strong>Coding:</strong> Python, HTML5, CSS3, Sass, JavaScript, JQuery, Django, Java</p>
-<p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
+  <p><strong>Research:</strong>User interviews, contextual inquiry, usability testing, persona development, expert evaluation</p>
+  <p><strong>Design & Tools:</strong> Interaction design, wireframing, prototyping, UXPin, Balsamiq, Proto.io, Adobe Xd, Marvel</p>
+  <p><strong>Coding:</strong> Python, HTML5, CSS3, Sass, JavaScript, JQuery, Django, Java</p>
+  <p><strong>Data:</strong> Machine learning, pandas, Excel, Octave</p>
 </div>
 
 <h2>Experience</h2>
