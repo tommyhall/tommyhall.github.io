@@ -83,11 +83,11 @@ p {
 }
 
 a {
-  color: $atlanticBlue;
+  color: $atlanticBlueDarker;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $atlanticBlue;
+    color: $atlanticBlueDarker;
     text-decoration: underline;
   }
 }
@@ -261,7 +261,7 @@ img {
   line-height: 150%;
 	
   a:hover {
-    color: $atlanticBlue;
+    color: $atlanticBlueDarker;
     text-decoration: none;
   }
 }
@@ -298,13 +298,13 @@ nav {
     letter-spacing: 1px;
 
     &:hover {
-      color:$atlanticBlue;
+      color:$atlanticBlueDarker;
       text-decoration:none;
     }
 	  
     @include mobile {
       margin: 0 10px;
-      color: $atlanticBlue;
+      color: $atlanticBlueDarker;
     }
   }
 }
@@ -314,7 +314,7 @@ nav {
   margin-top: 4em;
   padding-top: 1.5em;
   h1 {
-    color: $atlanticBlueDarker;
+    color: $gray;
     font-size: 36px;
   }
 }
