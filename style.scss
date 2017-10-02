@@ -83,7 +83,7 @@ p {
 }
 
 a {
-  color: $atlanticBlueDarker;
+  color: $atlanticBlue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -261,7 +261,7 @@ img {
   line-height: 150%;
 	
   a:hover {
-    color: $atlanticBlueDarker;
+    color: $atlanticBlue;
     text-decoration: none;
   }
 }
@@ -298,13 +298,13 @@ nav {
     letter-spacing: 1px;
 
     &:hover {
-      color:$atlanticBlueDarker;
+      color:$atlanticBluer;
       text-decoration:none;
     }
 	  
     @include mobile {
       margin: 0 10px;
-      color: $atlanticBlueDarker;
+      color: $atlanticBlue;
     }
   }
 }
