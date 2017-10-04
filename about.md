@@ -49,7 +49,11 @@ permalink: /about/
 <h4 class="resume-date align-right">Apr-Oct 2011</h4>
 <div class="clearfix"></div>
 <strong>Software Developer</strong>
-<p>Developed an application to interface with the University of Guelph's DRIVE Lab simulator, providing real time updates to a dash-mounted display, showing metrics such as the driver's following distance. The research data collected from this application contributed to a PhD dissertaion.</p>
+<ul>
+  <li>Developed an application to interface with the University of Guelph's DRIVE Lab simulator, providing real time updates to a dash-mounted display, showing metrics such as the driver's following distance.</li>
+  <li>The research data collected from this application contributed to a PhD dissertation.</li>
+  <li>Technologies: Tcl, Java</li>
+</ul>
 
 <h4 class="resume-title align-left"><a href="http://ca.blackberry.com/home.html">BlackBerry</a></h4>
 <h4 class="resume-date align-right">Jan-Dec 2010</h4>
