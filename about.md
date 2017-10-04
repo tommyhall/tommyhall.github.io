@@ -63,6 +63,12 @@ permalink: /about/
 <h4 class="resume-date align-right">Jan-Dec 2010</h4>
 <div class="clearfix"></div>
 <strong>UX Researcher</strong>
+<ul>
+  <li>Identified user needs, goals, and design insights as part of the User Experience team, focusing primarily on mobile media apps such as YouTube, Podcasts, Music, and Radio.</li>
+  <li>Gathered and synthesized user research data for multidisciplinary project teams to improve usability and user satisfaction, as well as test new app features with customers.</li>
+  <li>Employed a wide range of user research methods, such as user interviews, usability testing, focus groups, expert evaluation, card sorting, and prototyping.</li>
+  <li>Researched and authored extensive internal reports on augmented reality and the state-of-the-art in handheld user interfaces.</li>
+</ul>
 <p>Performed UX research for mobile media apps and desktop software, including usability testing, expert evaluation, focus groups, and user interviews.</p>
 </div>
 
