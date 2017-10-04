@@ -46,7 +46,7 @@ permalink: /about/
 <ul>
   <li>Designed and developed responsive website updates for businesses.</li>
   <li>Developed Django-based web applications.</li>
-  <li>Technologies: HTML5, CSS3, JavaScript, JQuery, Sass, Bootstrap</li>
+  <li>Technologies: HTML5, CSS3, JavaScript, JQuery, Sass, Bootstrap, Django, Python</li>
 </ul>
 
 <h4 class="resume-title align-left">Freelance</h4>
