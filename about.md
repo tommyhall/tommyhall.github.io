@@ -43,8 +43,12 @@ permalink: /about/
 <h4 class="resume-date align-right">2013 to 2017</h4>
 <div class="clearfix"></div>
 <strong>Full Stack Web Designer</strong>
-<p>Designed and developed responsive website updates for businesses, as well as Django-based web applications.</p>
- 
+<ul>
+  <li>Designed and developed responsive website updates for businesses.</li>
+  <li>Developed Django-based web applications.
+  <li>Technologies: HTML5, CSS3, JavaScript, JQuery, Sass, Bootstrap
+</ul>
+
 <h4 class="resume-title align-left">Freelance</h4>
 <h4 class="resume-date align-right">Apr-Oct 2011</h4>
 <div class="clearfix"></div>
