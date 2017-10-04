@@ -45,8 +45,8 @@ permalink: /about/
 <strong>Full Stack Web Designer</strong>
 <ul>
   <li>Designed and developed responsive website updates for businesses.</li>
-  <li>Developed Django-based web applications.
-  <li>Technologies: HTML5, CSS3, JavaScript, JQuery, Sass, Bootstrap
+  <li>Developed Django-based web applications.</li>
+  <li>Technologies: HTML5, CSS3, JavaScript, JQuery, Sass, Bootstrap</li>
 </ul>
 
 <h4 class="resume-title align-left">Freelance</h4>
