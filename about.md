@@ -23,8 +23,11 @@ permalink: /about/
 <h4 class="resume-title align-left"><a href="http://thinkux.ca">ThinkUX</a></h4>
 <h4 class="resume-date align-right">2017 to present</h4>
 <div class="clearfix"></div>
-<strong>User Experience Designer, co-founder</strong>
-<p>Performing UX research and design. User interviews, usability testing, expert evaluation, rapid prototyping, wireframe and mockup design.</p>
+<strong>User Experience Designer &amp; Co-founder</strong>
+<ul>
+  <li>Providing consulting in UX research and design. Working with organizations to understand and define their project goals, learn about their users, and then design, prototype, and test solutions.</li>
+  <li>Services include user interviews, persona development, user flows and journeys, usability testing, rapid prototyping, expert evaluation, as well as wireframing and design.</li>
+</ul>
   
 <h4 class="resume-title align-left"><a href="https://cdru.psychology.uoguelph.ca/cdru">Child Development Research Unit</a></h4> 
 <h4 class="resume-date align-right">2012 to 2016</h4>
@@ -69,7 +72,6 @@ permalink: /about/
   <li>Employed a wide range of user research methods, such as user interviews, usability testing, focus groups, expert evaluation, card sorting, and prototyping.</li>
   <li>Researched and authored extensive internal reports on augmented reality and the state-of-the-art in handheld user interfaces.</li>
 </ul>
-<p>Performed UX research for mobile media apps and desktop software, including usability testing, expert evaluation, focus groups, and user interviews.</p>
 </div>
 
 <h2>Education</h2>
