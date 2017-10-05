@@ -80,7 +80,7 @@ permalink: /about/
 <h4 class="resume-date align-right">2014</h4>
 <div class="clearfix"></div>
 <strong>MSc. Computer Science</strong>
-<p>Studies focused on Human-Computer Interaction. Thesis was on the effects of personality on code inspection performance.</p>
+<p>Specialization in Human-Computer Interaction. Coursework also included neural networks, genetic algorithms, and multi-agent systems. My thesis examined the effects of personality traits on code inspection performance.</p>
 <h4 class="resume-title align-left"><a href="https://www.uoguelph.ca/">University of Guelph</a></h4>
 <h4 class="resume-date align-right">2009</h4>
 <div class="clearfix"></div>
