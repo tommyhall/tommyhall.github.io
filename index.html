@@ -1,18 +1,20 @@
 ---
 layout: default
 ---
- 
+<div class="container">
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
+    <div class="row">
+      <div class="col-10 offset-col-1 col-sm-8 offset-sm-2 col-md-6 offset-md-3">
+        <article class="post">
+          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+          <div class="entry">
+            {{ post.excerpt }}
+          </div>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        </article>
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+    </div>
   {% endfor %}
+</div>
 </div>
