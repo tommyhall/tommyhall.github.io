@@ -1,17 +1,28 @@
 ---
 layout: default
 ---
+<div class="container">
+<div class="posts">
+  {% for post in site.posts %}
+    <div class="row justify-content-center">
+      <div class="col-10 offset-col-1 col-sm-8 offset-sm-2 col-md-6 offset-md-3">
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+        <article class="post">
+          <h1>{{ page.title }}</h1>
 
-  <div class="date">
-    {{ page.date | date: "%B %e, %Y" }}
-  </div>
+          <div class="date">
+            {{ page.date | date: "%B %e, %Y" }}
+          </div>
   
-  <div class="entry">
-    {{ content }}
-  </div>
+          <div class="entry">
+            {{ content }}
+          </div>
 
-  {% include disqus.html %}
-</article>
+          {% include disqus.html %}
+        </article>  
+        
+      </div>
+    </div>
+  {% endfor %}
+</div>
+</div>
