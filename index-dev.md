@@ -18,7 +18,7 @@ layout: default
   
   <div class="row portfolio-item justify-content-center">
     <div class="col-12 col-lg-5 text-center">
-      <img class="img-fluid" src="http://via.placeholder.com/600x300" alt="Singularity University case study cover image" />
+      <img class="img-fluid" src="{{ site.baseurl }}/images/su-cover.jpeg" alt="Singularity University case study cover image" />
     </div>
     <div class="col-12 col-lg-7">
       <h1>Singularity University</h1>
@@ -30,7 +30,7 @@ layout: default
   
   <div class="row portfolio-item justify-content-center">
     <div class="col-12 col-lg-5 text-center">
-      <img class="img-fluid" src="http://via.placeholder.com/600x300" alt="CDRU case study cover image" />
+      <img class="img-fluid" src="{{ site.baseurl }}/images/cdru-cover.jpeg" alt="CDRU case study cover image" />
     </div>
     <div class="col-12 col-lg-7">
       <h1>Child Development Research Unit</h1>
@@ -42,7 +42,7 @@ layout: default
   
   <div class="row portfolio-item justify-content-center">
     <div class="col-12 col-lg-5 text-center">
-      <img class="img-fluid" src="http://via.placeholder.com/600x300" alt="TripSeer case study cover image" />
+      <img class="img-fluid" src="{{ site.baseurl }}/images/tripseer-cover.jpeg" alt="TripSeer case study cover image" />
     </div>
     <div class="col-12 col-lg-7">
       <h1>TripSeer</h1>
