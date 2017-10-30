@@ -52,4 +52,4 @@ layout: default
     </div>
   </div>
   
-  <div style="padding-bottom:2em"></div>
+  <div style="padding-bottom:4em"></div>
