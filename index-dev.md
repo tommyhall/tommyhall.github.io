@@ -51,3 +51,5 @@ layout: default
       <p><em>Case study coming soon.</em></p>
     </div>
   </div>
+  
+  <div style="padding-bottom:2em"></div>
