@@ -49,11 +49,12 @@ description: A description of the work performed for Singularity University, inc
   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
     <h2>Design</h2>
     <p>We focused on the landing page, the sign up flow, and the course information pages.</p>
-    <p>On the landing page we aimed to more clearly communicate the purpose of the site, the benefit of the SU courses, and provide a more clear call to action (CTA). We also created separate landing pages for guests and registered users. Registered users had reported having problems finding their courses after returning to SU, so we simplified the process by adding their courses and course progress to the landing page after signing in.</p>
+    <p>On the landing page we aimed to more clearly communicate the purpose of the site, the benefit of the SU courses, and provide a more clear call to action (CTA). We also created separate landing pages for guests and registered users.</p>
     <figure class="figure">
       <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/su-landing.jpg" alt="SU landing page (new users)" />
       <figcaption class="figure-caption">The SU landing page for guests or new users.</figcaption>
     </figure>
+    <p>Registered users had reported having problems finding their courses after returning to SU, so we simplified the process by adding their courses and course progress to the landing page after signing in.</p>
     <figure class="figure">
       <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/su-landing-registered.jpg" alt="SU landing page (registered users)" />
       <figcaption class="figure-caption">The SU landing page for registered users.</figcaption>
