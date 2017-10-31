@@ -18,7 +18,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center">
-  <div class="col-10 offset-1 col-sm-8 offset-sm-2 col-md-6 offset-md-3">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
     <h2>The Challenge</h2>
     <p>The Child Development Research Unit (CDRU) is a research laboratory at the University of Guelph that studies developmental issues related to child health. I was hired to help the CDRU researchers design and build a virtual reality (VR) training game to help teach children to cross the street more safely, in a number of realistic suburban environments.</p>
   </div>
