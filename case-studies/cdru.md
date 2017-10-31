@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 description: A description of the work performed for the Child Development Research Unit, including user interviews, minimum viable product, prototyping, usability testing.
 ---
 
