@@ -146,6 +146,6 @@ description: A description of the work performed for the Child Development Resea
 
 <div class="row case-study justify-content-center">
   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
-    <p>In the end, we created a system that has shown promise in improving child safety when crossing the street, using an engaging VR interface, and with lessons that are clear and understandable for the target users. We also learned a lot about pedestrian safety, and can't help but think about this project any time we prepare to step into the street!</p>
+    <p>In the end, we created a system that has shown promise in improving child safety when crossing the street, using an engaging VR interface, and with lessons that are clear and understandable for the target users. I also learned a lot about pedestrian safety, and can't help but think about this project any time I'm about to step into the street!</p>
   </div>
 </div>
