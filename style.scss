@@ -366,6 +366,42 @@ nav {
   }
 }
 
+.case-study {
+  .testimonial {
+    font-size: 21px;
+    color: #a3a3a3;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+  h2 {
+    color: $atlanticBlue;
+  }
+  td {
+    font-size: 15px;
+  }
+  .table {
+    margin-top:30px;
+  }
+  figure {
+    margin-top:30px;
+    margin-bottom:30px;
+  }
+  figcaption {
+    text-align: center;
+  }
+  li {
+    margin-top: .5em;
+  }
+  li:first-child {
+    margin-top:0;
+  }
+}
+
 .resume-title {
   color: $atlanticBlueDarker;
   font-size:22px;
