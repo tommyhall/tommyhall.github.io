@@ -5,7 +5,7 @@ description: A description of the work performed for TripSeer, including user in
 
 <div class="row case-study justify-content-center">
   <div class="col-12 col-sm-8 offset-sm-2">
-    <h1>Child Development Research Unit</h1>
+    <h1>TripSeer</h1>
   </div>
 </div>
 
@@ -21,6 +21,7 @@ description: A description of the work performed for TripSeer, including user in
   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
     <h2>The Challenge</h2>
     <p>TripSeer is a web application offering intelligent trip planning and itinerary management. It allows users to create trips with multiple destinations, and manage accommodations, activities, and travel methods between their destinations. The client was concerned that while the application was rich with features, it was "too complex and difficult for users to learn".</p>
+    <p>The work described in this case study was performed as ThinkUX, a team of two UX consultants.</p>
   </div>
 </div>
 
