@@ -77,7 +77,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center">
-  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+  <div class="col-12">
     <table class="table table-responsive table-bordered table-striped">
       <thead>
         <th><strong>Problem</strong></th>
