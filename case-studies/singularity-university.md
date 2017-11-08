@@ -12,7 +12,8 @@ description: A description of the work performed for Singularity University, inc
 <div class="row case-study justify-content-center">
   <div class="col-12 col-sm-8 offset-sm-2">
     <div class="testimonial">
-      <p>"Tom and Jonathan are unbelievable at what they do. Amazing, useful, and tangible recommends we can put into practice right now to achieve our desired goals. We'll definitely be working with these guys in the future."</p>
+      <p>"Tom is unbelievable at what he does. Amazing, useful, and tangible recommends we can put into practice right now to achieve our desired goals. We'll definitely be working with him in the future."</p>
+      <p><small>Adam Hofmann, <em>Directory of New Product Development</em></small></p>
     </div>
   </div>
 </div>
