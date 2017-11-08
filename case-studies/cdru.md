@@ -12,7 +12,7 @@ description: A description of the work performed for the Child Development Resea
 <div class="row case-study justify-content-center">
   <div class="col-12 col-sm-8 offset-sm-2">
     <div class="testimonial">
-      <p>"Tom and Jonathan enabled us to focus on our research because they consistently delivered high quality products. The results speak for themselves: we improved from close to 0% task completion to nearly 100%."</p>
+      <p>"Tom enabled us to focus on our research because he consistently delivered high quality products. The results speak for themselves: we improved from close to 0% task completion to nearly 100%."</p>
       <p class="small" style="color:#333;"><strong>Mike Corbett</strong> - Project Manager</p>
     </div>
   </div>
