@@ -5,24 +5,28 @@ description: A description of the work performed for the Child Development Resea
 
 <div class="row case-study justify-content-center">
   <div class="col-12 col-sm-8 offset-sm-2">
-    <h1>Child Development Research Unit</h1>
-  </div>
-</div>
-
-<div class="row case-study justify-content-center">
-  <div class="col-12 col-sm-8 offset-sm-2">
-    <div class="testimonial">
-      <p>"Tom enabled us to focus on our research because he consistently delivered high quality products. The results speak for themselves: we improved from close to 0% task completion to nearly 100%."</p>
-      <p class="small" style="color:#333;"><strong>Mike Corbett</strong> - Project Manager</p>
-    </div>
+    <h1>From VR to real-world safety: Helping kids learn to cross the street</h1>
   </div>
 </div>
 
 <div class="row case-study justify-content-center">
   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
-    <h2>The Challenge</h2>
-    <p>The Child Development Research Unit (CDRU) is a research laboratory at the University of Guelph that studies developmental issues related to child health. I was hired to help the CDRU researchers design and build a virtual reality (VR) training game to help teach children to cross the street more safely, in a number of realistic suburban environments.</p>
-    <p>The activities discussed in this case study were accomplished as a team of two: myself, and my colleague Jonathan.</p>
+    <h2>The Project</h2>
+    <p>The Child Development Research Unit (CDRU) at the University of Guelph studies developmental issues related to child health. I'd worked with them before&mdash;building VR simulations to study child pedestrian behaviour&mdash;so when they set out to create a VR training game to help teach children (ages 6-9) how to cross the street safely, I joined a small team to help make it happen.</p>
+    <p>The goal was to build a finished system that could:</p>
+    <ul>
+      <li>Train kids in realistic suburban environments</li>
+      <li>Track their performance and learning</li>
+      <li>Support academic research on pedestrian safety</li>
+      <li>Eventually be rolled out in classrooms</li>
+    </ul>
+    <p>And the system also needed to be:</p>
+    <ul>
+      <li>Engaging enough to keep kids focused</li>
+      <li>Simple enough to navigate with an Xbox controller</li>
+      <li>Flexible enough for researchers to manage study participants, collect data, and recover from interruptions or technical issues</li>
+    </ul>
+    <p>The project spanned about two years in total.</p>
   </div>
 </div>
 
