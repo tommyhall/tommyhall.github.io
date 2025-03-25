@@ -34,7 +34,30 @@ description: A description of the work performed for the Child Development Resea
   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
     <h2>Team &amp; Role</h2>
     <p>I wore a number of hats on this project&mdash;software development, UX design, user research, and telemetry design & data analysis&mdash;helping take the system from early concepts through to a working product. I was responsible for designing the interaction model, running user testing with child participants, and building the telemetry system to track and analyze performance data.</p>
-    <p>I worked alongside a small team, primarily another developer/researcher, research assistants from the CDRU, and the pediatric psychologists leading the lab.</p>
+    <p>I worked alongside a small team: another developer/researcher, research assistants from the CDRU, the pediatric psychologists leading the lab, and a few other developers and artists from time to time.</p>
+  </div>
+</div>
+
+<div class="row case-study justify-content-center">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+    <h2>Development</h2>
+    <p>We developed the system in Python using the Vizard engine, building it from the ground up in collaboration with the pediatric psychologists.</p>
+    <p>Working with them, we sketched out key scenarios and environments participants would encounter, creating flow diagrams to map out how training stages would progress. We worked together to prioritize essential features.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/flowdiagram.PNG" alt="flow diagram" />
+      <figcaption class="figure-caption">A flow diagram for for the states and stages of the training system.</figcaption>
+    </figure>
+    <p>The system needed to support:</p>
+    <ul>
+      <li>Multiple environments simulating unsafe pedestrian conditions (e.g., curves in the road, parked cars, and other visual occlusions)</li>
+      <li>Real-time detection of unsafe behaviour (e.g., not looking both ways, stepping into traffic too late)</li>
+      <li>Timely, relevant feedback to help participants understand and correct their mistakes</li>
+      <li>Assessment of skill progression, so participants could advance once they were competent with a concept</li>
+    </ul>
+    <p>Given the complexity of the real-time feedback system, we knew we needed to test early with a functional prototype.</p>
+    <p>We broke development into modules, starting with a basic environment where cars would pass and the user could walk around. From there, we layered on functionality, testing internally at each step before rolling out our first training module with real-time feedback.</p>
+    <p>We did some usability testing and iterated on each module before moving on to the next.</p>
+    <p>Along the way, we also built support tools to streamline content creation. One was a cutscene builder&mdash;an application that allowed the psychologists to place cars, camera movements, and an avatar on a 2D canvas, then translating it into an in-game sequence that we could play for a user. This was the basis of the feedback that participants would see.</p>
   </div>
 </div>
 
@@ -60,10 +83,6 @@ description: A description of the work performed for the Child Development Resea
       <li>The ability to assess when participants had achieved competence with a training concept, and advance them to the next concept.</li>
     </ul>
     <p>We sketched out each of the possible scenarios and environments, and created flow diagrams to illustrate how participants would flow between the training stages.</p>
-    <figure class="figure">
-      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/flowdiagram.PNG" alt="flow diagram" />
-      <figcaption class="figure-caption">A flow diagram for for the states and stages of the training system.</figcaption>
-    </figure>
     <p>Given the complex nature of the immediate feedback and system flow, a working prototype was required to test participants. The original vision of the system was a desktop application, controlled with an Xbox controller, with three widescreen monitors to provide a wider field of view. We worked with the researchers to define which features were most essential, and built a minimum viable product (MVP) to test those features with users.</p>
     <figure class="figure">
       <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/intern.jpg" alt="flow diagram" />
