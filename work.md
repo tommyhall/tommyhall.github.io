@@ -21,9 +21,17 @@ permalink: /work/
       <li>P4</li>
     </ul>
 
-  <h1>How I work</h1>
-  <h2>I believe good research is collaborative.</h2>
+  <h2>How I work</h2>
+  <h3>I believe good research is collaborative.</h3>
   <p>Research doesn’t do much good in isolation&mdash;it has to connect with what the team truly needs to know. I love collaborating with designers, PMs, developers, and other partners to get buy-in and create insights that everyone will actually use. I don’t just help teams get answers, I help them ask the right questions.</p>
+  <h3>I help teams make informed decisions.</h3>
+  <p></p>
+  <h3>I bringe diverse methods to get the full picture.</h3>
+  <p></p>
+  <h3>I turn complex data into insights teams actually use.</h3>
+  <p></p>
+  <h3>I help research teams build and grow.</h3>
+  <p>I’ve set up research processes from scratch, mentored teams, and worked with leadership to integrate research into decision-making. I know how to make research stick&mdash;whether that’s through strong methods, smart operations, or simply getting teams to see its value.</p>
 
   </div>
 </div>
