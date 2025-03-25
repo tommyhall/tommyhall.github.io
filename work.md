@@ -4,7 +4,7 @@ title: Work
 permalink: /work/
 ---
 
-<div class="row justify-content-center p-b-30">
+<div class="row justify-content-center portfolio p-b-30">
   <div class="col-12 col-md-10 col-xl-8">
     <h1 class="headline p-b-30">Hello!</h1>
     <p><strong>I'm Tom&mdash;a user researcher, strategist, and creative problem-solver.</strong></p>
