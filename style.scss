@@ -319,19 +319,36 @@ nav {
   }
 }
 
-.portfolio-item {
-  margin-top: 80px;
-  img {
-    max-width: 50%;
-    margin-top: 1.1em;
-  }
+.portfolio {
   h1 {
-    font-size:32px;
+    font-family: $roboto;
   }
-  .services {
-    font-weight:600;
+  h2 {
+    font-family: $roboto;
+  }
+  h3 {
+    font-family: $roboto;
+    font-size: 18px;
+    padding: 0;
+    margin: 1em 0 0.6em;
+  }
+  strong {
   }
 }
+
+// .portfolio-item {
+//   margin-top: 80px;
+//   img {
+//     max-width: 50%;
+//     margin-top: 1.1em;
+//   }
+//   h1 {
+//     font-size:32px;
+//   }
+//   .services {
+//     font-weight:600;
+//   }
+// }
 
 //
 // .main
