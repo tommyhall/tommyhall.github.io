@@ -31,7 +31,7 @@ permalink: /work/
   <h3>I turn complex data into insights teams actually use.</h3>
   <p>People don’t connect with data&mdash;they connect with stories. I find real patterns, cut through the noise, and communicate insights in a way that sticks. Because if research doesn’t lead to better results, it’s just theatre.</p>
   <h3>I help research teams build and grow.</h3>
-  <p>I’ve set up research processes from scratch, mentored teams, and worked with leadership to integrate research into decision-making. I know how to make research stick&mdash;whether that’s through strong methods, smart operations, or simply getting teams to see its value.</p>
+  <p>I’ve set up research processes from scratch, mentored teams, and worked with leadership to integrate research into decision-making. I know how to make research stick&mdash;whether that’s through strong methods, smart operations, or simply getting decision makers to see its value.</p>
 
   </div>
 </div>
