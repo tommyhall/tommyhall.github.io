@@ -145,13 +145,12 @@ description: A description of the work performed for the Child Development Resea
     </ul>
     <p>My job was to translate these behavioural questions into concrete, measurable metrics that we could track in the program.</p>
     <h4>Raw data &rarr; Meaningful insights</h4>
-    <p>We had access to the following spatial data:</p>
+    <p>We had access to the following spatial data, at a 60Hz sampling rate:</p>
     <ul>
       <li>Participant location and viewing angle</li>
       <li>Car positions (moving and parked)</li>
       <li>Road boundaries and locations of visual obstructions</li>
     </ul>
-    <p>We had all of this at a 60Hz sampling rate.</p>
     <p>This gave us raw data, but we needed to extract meaning from it. For example, defining “paying attention to traffic” required translating head orientation and timing data into a clear behavioural measure.</p>
     <p>Once each metric was defined, I:</p>
     <ul>
