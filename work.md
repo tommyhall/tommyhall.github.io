@@ -25,11 +25,11 @@ permalink: /work/
   <h3>I believe good research is collaborative.</h3>
   <p>Research doesn’t do much good in isolation&mdash;it has to connect with what the team truly needs to know. I love collaborating with designers, PMs, developers, and other partners to get buy-in and create insights that everyone will actually use. I don’t just help teams get answers, I help them ask the right questions.</p>
   <h3>I help teams make informed decisions.</h3>
-  <p></p>
+  <p>I dive into understanding the project, its context, and how research findings will actually be used, so that I can deliver insights at the right time to influence decisions. My research is relevant, drives results, and is always delivered on time and on budget.</p>
   <h3>I bringe diverse methods to get the full picture.</h3>
-  <p></p>
+  <p>I’ve tackled research challenges across many fields, so I know what works&mdash;and when. Whether it’s in-depth interviews that uncover the “why” or data analysis to reveal trends at scale, I choose the right approach for each unique challenge. By combining qualitative and quantitative methods, I build a complete picture that neither could provide alone.</p>
   <h3>I turn complex data into insights teams actually use.</h3>
-  <p></p>
+  <p>People don’t connect with data&mdash;they connect with stories. I find real patterns, cut through the noise, and communicate insights in a way that sticks. Because if research doesn’t lead to better results, it’s just theatre.</p>
   <h3>I help research teams build and grow.</h3>
   <p>I’ve set up research processes from scratch, mentored teams, and worked with leadership to integrate research into decision-making. I know how to make research stick&mdash;whether that’s through strong methods, smart operations, or simply getting teams to see its value.</p>
 
