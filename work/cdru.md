@@ -10,7 +10,8 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center">
-  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+<!--   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3"> -->
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2">
     <h2>The Project</h2>
     <p>The Child Development Research Unit (CDRU) at the University of Guelph studies developmental issues related to child health. I'd worked with them before&mdash;building VR simulations to study child pedestrian behaviour&mdash;so when they set out to create a VR training game to help teach children (ages 6-9) how to cross the street safely, I joined a small team to help make it happen.</p>
     <p>The goal was to build a finished system that could:</p>
