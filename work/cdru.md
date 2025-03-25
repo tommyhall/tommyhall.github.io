@@ -56,10 +56,85 @@ description: A description of the work performed for the Child Development Resea
     </ul>
     <p>Given the complexity of the real-time feedback system, we knew we needed to test early with a functional prototype.</p>
     <p>We broke development into modules, starting with a basic environment where cars would pass and the user could walk around. From there, we layered on functionality, testing internally at each step before rolling out our first training module with real-time feedback.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/intern.jpg" alt="flow diagram" />
+      <figcaption class="figure-caption">An intern helps to build the prototype.</figcaption>
+    </figure>
     <p>We did some usability testing and iterated on each module before moving on to the next.</p>
     <p>Along the way, we also built support tools to streamline content creation. One was a cutscene builder&mdash;an application that allowed the psychologists to place cars, camera movements, and an avatar on a 2D canvas, then translating it into an in-game sequence that we could play for a user. This was the basis of the feedback that participants would see.</p>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/training3.jpg" alt="a feedback video from the training system" />
+      <figcaption class="figure-caption">A feedback video from the training system.</figcaption>
+    </figure>
   </div>
 </div>
+
+<div class="row case-study justify-content-center">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+    <h2>Usability Testing &amp; Iteration</h2>
+    <p>Once we had a few training modules ready, we began user testing with children aged 6-9&mdash;our target audience. The CDRU had an existing panel of child participants, which made recruitment easier.</p>
+    <p>After each round of usability testing, we identified the most common and significant issues, brainstormed solutions, and worked with the psychologists to determine the best course of action. I then worked with the other developers to implement changes before running another round of testing.</p>
+    <p>Through this process, we solved a number of key usability challenges, detailed below.</p>
+    <h4>Task Complexity</h4>
+    <p>Some training tasks were too complex for the age group, and many participants struggled to understand or complete them.</p>
+    <p><strong>Solution:</strong></p>
+    <ul>
+      <li>We broke training into smaller, more focused sections, each teaching only one concept at a time.</li>
+      <li>We adjusted replay camera angles to make each action clearer.</li>
+      <li>We simplified training scripts, including language adjustments. For example: Some children had trouble differentiating “left” and “right”, so we found alternative ways to guide them.</li>
+    </ul>
+    <p><strong>Impact:</strong></p>
+    <p>Our changes significantly improved training completion rates.</p>
+    <h4>Engagement</h4>
+    <p>Some children lost interest before completing the training, reducing its effectiveness.</p>
+    <p><strong>Solution:</strong></p>
+    <ul>
+      <li>We added animations to the instructions and feedback, featuring a cartoon police officer.</li>
+      <li>We introduced a star rating system with bonuses for strong performance.</li>
+      <li>We shortened instructions and streamlined transitions between training stages.</li>
+    </ul>
+    <figure class="figure">
+      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/police.jpg" alt="policeman character" />
+      <figcaption class="figure-caption">We added a policeman character to deliver dialog.</figcaption>
+    </figure>
+    <p><strong>Impact:</strong></p>
+    <ul>
+      <li>Time needed to complete the training was reduced.</li>
+      <li>Engagement improved significantly.</li>
+      <li>Completion rates further increased.</li>
+    </ul>
+    <h4>Controls</h4>
+    <p>Some participants found the controls confusing or difficult to use, particularly in combination with the VR headset.</p>
+    <p><strong>Solution:</strong></p>
+    <ul>
+      <li>We tested different control schemes to find one that felt more intuitive.</li>
+      <li>We created an interactive tutorial to establish a baseline for control competence before training began.</li>
+    </ul>
+    <p><strong>Impact:</strong></p>
+    <p>This substantially reduced control-related errors and frustration.</p>
+    <h4>Motion Sickness</h4>
+    <p>VR can cause motion sickness in some people. This was a major blocker for any participants impacted. Our system initially had two major triggers:</p>
+    <ol>
+      <li>Technical performance issues - Low frame rates and input lag can increase nausea.</li>
+      <li>Sensory conflict in replays - The feedback system required showing participants replays and instructions with dynamic camera movements while they were sitting still, which could create sensory conflict.</li>
+    </ol>
+    <p><strong>Solution:</strong></p>
+    <ul>
+      <li>We improved performance efficiency to maintain a higher frame rate, including new 3D models and lighting.</li>
+      <li>We redesigned how the replays worked. Instead of shifting the participant’s view, we gently reset them to a starting position and placed a large projected screen in front of them in the virtual world, much like a movie theatre. Replays played on this screen instead, avoiding camera movement issues.</li>
+    </ul>
+    <p><strong>Impact:</strong></p>
+    <ul>
+      <li>Motion sickness was dramatically reduced.</li>
+      <li>Training completion increased to nearly 100%.</li>
+    </ul>
+    <p>(One new issue we ran into after implementing the movie screen solution was that some participants ignored it, missing important instructions. This was largely solved by improving feedback and engagement, as described earlier.)</p>
+  </div>
+</div>
+
+
+
+
 
 <div class="row case-study justify-content-center">
   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
@@ -84,10 +159,6 @@ description: A description of the work performed for the Child Development Resea
     </ul>
     <p>We sketched out each of the possible scenarios and environments, and created flow diagrams to illustrate how participants would flow between the training stages.</p>
     <p>Given the complex nature of the immediate feedback and system flow, a working prototype was required to test participants. The original vision of the system was a desktop application, controlled with an Xbox controller, with three widescreen monitors to provide a wider field of view. We worked with the researchers to define which features were most essential, and built a minimum viable product (MVP) to test those features with users.</p>
-    <figure class="figure">
-      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/intern.jpg" alt="flow diagram" />
-      <figcaption class="figure-caption">An intern helps to build the prototype.</figcaption>
-    </figure>
   </div>
 </div>
 
@@ -156,14 +227,6 @@ description: A description of the work performed for the Child Development Resea
       <li>Adding a policeman character to deliver any audio instructions</li>
     </ul>
     <p>We also updated the scoring system to give more rewards for good performance, and make it easier for the participants to demonstrate mastery and move on to the next lesson. Overall, these changes had a marked impact on user engagement.</p>
-    <figure class="figure">
-      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/police.jpg" alt="policeman character" />
-      <figcaption class="figure-caption">We added a policeman character to deliver dialog.</figcaption>
-    </figure>
-    <figure class="figure">
-      <img class="img-responsive" src="{{ site.baseurl }}/images/portfolio/case_studies/training3.jpg" alt="a feedback video from the training system" />
-      <figcaption class="figure-caption">A feedback video from the training system.</figcaption>
-    </figure>
     <p>The CDRU is currently collecting data using the training system, and early results are promising. The project was featured on CityNews in Toronto (1:25 onwards in the video below shows some of the training system in action).</p>
   </div>
 </div>
