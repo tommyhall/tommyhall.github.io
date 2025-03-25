@@ -32,6 +32,14 @@ description: A description of the work performed for the Child Development Resea
 
 <div class="row case-study justify-content-center">
   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+    <h2>Team &amp; Role</h2>
+    <p>I wore a number of hats on this project&mdash;software development, UX design, user research, and telemetry design & data analysis&mdash;helping take the system from early concepts through to a working product. I was responsible for designing the interaction model, running user testing with child participants, and building the telemetry system to track and analyze performance data.</p>
+    <p>I worked alongside a small team, primarily another developer/researcher, research assistants from the CDRU, and the pediatric psychologists leading the lab.</p>
+  </div>
+</div>
+
+<div class="row case-study justify-content-center">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
     <h2>Understanding the Problem</h2>
     <p>To help us understand the problem, we performed stakeholder interviews, then defined user groups and use cases.</p>
     <h4>Stakeholder Interviews</h4>
