@@ -10,7 +10,6 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center">
-<!--   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3"> -->
   <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2">
     <h2>The Project</h2>
     <p>The Child Development Research Unit (CDRU) at the University of Guelph studies developmental issues related to child health. I'd worked with them before&mdash;building VR simulations to study child pedestrian behaviour&mdash;so when they set out to create a VR training game to help teach children (ages 6-9) how to cross the street safely, I joined a small team to help make it happen.</p>
@@ -32,7 +31,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center">
-  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2">
     <h2>Team &amp; Role</h2>
     <p>I wore a number of hats on this project&mdash;software development, UX design, user research, and telemetry design & data analysis&mdash;helping take the system from early concepts through to a working product. I was responsible for designing the interaction model, running user testing with child participants, and building the telemetry system to track and analyze performance data.</p>
     <p>I worked alongside a small team: another developer/researcher, research assistants from the CDRU, the pediatric psychologists leading the lab, and a few other developers and artists from time to time.</p>
@@ -40,7 +39,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center">
-  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2">
     <h2>Development</h2>
     <p>We developed the system in Python using the Vizard engine, building it from the ground up in collaboration with the pediatric psychologists.</p>
     <p>Working with them, we sketched out key scenarios and environments participants would encounter, creating flow diagrams to map out how training stages would progress. We worked together to prioritize essential features.</p>
@@ -71,7 +70,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center">
-  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2">
     <h2>Usability Testing &amp; Iteration</h2>
     <p>Once we had a few training modules ready, we began user testing with children aged 6-9&mdash;our target audience. The CDRU had an existing panel of child participants, which made recruitment easier.</p>
     <p>After each round of usability testing, we identified the most common and significant issues, brainstormed solutions, and worked with the psychologists to determine the best course of action. I then worked with the other developers to implement changes before running another round of testing.</p>
@@ -134,7 +133,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center">
-  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2">
     <h2>Telemetry &amp; Behavioural Metrics</h2>
     <p>A key part of the system was telemetry data&mdash;this was how we could quantify user behaviour and prove whether the training interventions were effective.</p>
     <p>To define what needed tracking, I worked closely with the pediatric psychologists leading the study. They had high-level research questions, like:</p>
@@ -165,7 +164,7 @@ description: A description of the work performed for the Child Development Resea
 </div>
 
 <div class="row case-study justify-content-center p-b-30">
-  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+  <div class="col-10 offset-1 col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-8 offset-lg-2">
     <h2>Outcome &amp; Impact</h2>
     <p>The system, later officially called <em>Safe Peds</em>, proved to be highly effective in teaching safe pedestrian behaviours to children. Testing showed marked improvements in how children assessed traffic, checked for danger, and crossed streets safely after training.</p>
     <p>The impact extended beyond the lab:</p>
