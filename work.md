@@ -12,13 +12,14 @@ permalink: /work/
     <p>I’ve led research in-house and as a consultant across media, health &amp; wellness, education, VR, and games&mdash;on titles like <em>Far Cry</em>, <em>Marvel Rivals</em>, and <em>Mario+Rabbids</em>. No matter the project, the goal is always the same: help teams create things that people actually want while reducing risk through smarter, more informed decisions.</p>
     <p>With a background in computer science and software development, I bring a human-centred approach to both technical and non-technical audiences.</p>
     <p>This page is a no-frills look at some of my expertise. If you have questions, <a href="{{ site.baseurl }}/contact">let’s chat</a>.</p>
-    <p>Want to know how I approach research? Keep reading.</p>
-    <p>Prefer to jump straight into reading about some projects? Here you go:</p>
+
+    <h2>Projects</h2>
+    <p>I've delivered hundreds of research projects over the years. Below, I've selected some that I think are particularly interesting or highlight different skills and approaches.</p>
     <ul>
-      <li>Case Study: <a href="#">Bringing wine education online</a></li>
-      <li>Case Study: <a href="#">From zero to launch - Standing up research and delivering insights in less than a month</a></li>
-      <li>Case Study: <a href="#">Helping a studio choose between two game concepts</a></li>
-      <li>Case Study: <a href="#">From VR to real-world safety - Helping kids learn to cross the street</a></li>
+      <li>Case Study 1: <a href="#">Bringing wine education online</a></li>
+      <li>Case Study 2: <a href="#">Standing up research and delivering insights in less than a month</a></li>
+      <li>Case Study 3: <a href="#">Helping a studio choose between two game concepts</a></li>
+      <li>Case Study 4: <a href="#">From VR to real-world safety - Helping kids learn to cross the street</a></li>
     </ul>
 
     <h2>How I work</h2>
