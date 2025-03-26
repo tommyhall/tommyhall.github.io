@@ -356,6 +356,11 @@ nav {
 // .main
 //
 
+.portrait {
+  max-width: 80%;
+  padding-top: 2.2em;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
