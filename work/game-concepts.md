@@ -5,7 +5,7 @@ description: A description of work performed for Frontier Research at NetEase IE
 
 <div class="row case-study justify-content-center">
   <div class="col-12 col-sm-8 offset-sm-2">
-    <h1>From zero to launch: Standing up research and delivering insights in less than a month</h1>
+    <h1>Helping a studio choose between two game concepts</h1>
   </div>
 </div>
 
