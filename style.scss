@@ -527,6 +527,9 @@ footer {
 .p-t-10 {
   padding-top: 10px;
 }
+.p-t-blurb {
+  padding-top: 2.2em;
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
