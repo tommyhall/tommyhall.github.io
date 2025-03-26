@@ -16,7 +16,7 @@ permalink: /work/
     <h2>Projects</h2>
     <p>I've delivered hundreds of research projects over the years. Below, I've selected some that I think are particularly interesting or highlight different skills and approaches.</p>
     <ul>
-      <li><strong>Case Study 1:</strong> <a href="#">Bringing wine education online</a></li>
+      <li><strong>Case Study 1:</strong> <a href="{{ site.baseurl }}/work/wine-education">Bringing wine education online</a></li>
       <li><strong>Case Study 2:</strong> <a href="#">Standing up research and delivering insights in less than a month</a></li>
       <li><strong>Case Study 3:</strong> <a href="#">Helping a studio choose between two game concepts</a></li>
       <li><strong>Case Study 4:</strong> <a href="{{ site.baseurl }}/work/cdru">From VR to real-world safety - Helping kids learn to cross the street</a></li>
