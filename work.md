@@ -14,7 +14,7 @@ permalink: /work/
     <p>This page is a no-frills look at some of my expertise. If you have questions, <a href="{{ site.baseurl }}/contact">let’s chat</a>.</p>
 
     <h2>Projects</h2>
-    <p>I've delivered hundreds of research projects over the years. Below, I've selected some that I think are particularly interesting or highlight different skills and approaches.</p>
+    <p>I've delivered hundreds of research projects over the years. Below, I've selected some that I think are particularly interesting or highlight some of my different skills and approaches.</p>
     <ul>
       <li><strong>Case Study 1:</strong> <a href="{{ site.baseurl }}/work/launching-research">Standing up research and delivering insights in less than a month</a></li>
       <li><strong>Case Study 2:</strong> <a href="{{ site.baseurl }}/work/wine-education">Bringing wine education online</a></li>
